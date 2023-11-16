@@ -21,7 +21,7 @@ const SvgTextItalic = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="m13.656 3-5.4 18h2.088l5.4-18h-2.088Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

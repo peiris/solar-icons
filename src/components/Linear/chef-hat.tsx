@@ -20,7 +20,7 @@ const SvgChefHat = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="M5 18h14"
       />
     </svg>

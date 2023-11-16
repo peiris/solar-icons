@@ -12,7 +12,7 @@ const SvgRecord = (props: SVGProps<SVGSVGElement>) => {
       height={24}
       {...props}
     >
-      <circle cx={12} cy={12} r={7} fill="currentColor" opacity={0.5} />
+      <circle cx={12} cy={12} r={7} fill="currentColor" opacity={0.3} />
       <path
         fill="currentColor"
         fillRule="evenodd"

@@ -17,13 +17,13 @@ const SvgEuro = (props: SVGProps<SVGSVGElement>) => {
         cy={12}
         r={10}
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         opacity={0.5}
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M15 6.803a6 6 0 1 0 0 10.395M5 10.5h5M5 13.5h5"
       />
     </svg>

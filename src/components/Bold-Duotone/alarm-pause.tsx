@@ -15,7 +15,7 @@ const SvgAlarmPause = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M12 22a9 9 0 1 0 0-18 9 9 0 0 0 0 18Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

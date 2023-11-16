@@ -16,7 +16,7 @@ const SvgGolf = (props: SVGProps<SVGSVGElement>) => {
         cx={12}
         cy={18.5}
         fill="currentColor"
-        opacity={0.5}
+        opacity={0.3}
         rx={10}
         ry={3.5}
       />

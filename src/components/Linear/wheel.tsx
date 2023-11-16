@@ -12,13 +12,13 @@ const SvgWheel = (props: SVGProps<SVGSVGElement>) => {
       height={24}
       {...props}
     >
-      <circle cx={12} cy={12} r={10} stroke="currentColor" strokeWidth={1.5} />
-      <circle cx={12} cy={12} r={6} stroke="currentColor" strokeWidth={1.5} />
-      <circle cx={12} cy={12} r={2} stroke="currentColor" strokeWidth={1.5} />
+      <circle cx={12} cy={12} r={10} stroke="currentColor"  />
+      <circle cx={12} cy={12} r={6} stroke="currentColor"  />
+      <circle cx={12} cy={12} r={2} stroke="currentColor"  />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M6 12h4M14 12h4M9 17.196l2-3.464M13 10.268l2-3.464M15 17.196l-2-3.464M11 10.268 9 6.804"
       />
     </svg>

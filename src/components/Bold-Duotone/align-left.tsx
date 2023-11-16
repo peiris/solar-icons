@@ -21,7 +21,7 @@ const SvgAlignLeft = (props: SVGProps<SVGSVGElement>) => {
         fillRule="evenodd"
         d="M3.375 23.125a.75.75 0 0 0 .75-.75v-20a.75.75 0 0 0-1.5 0v20c0 .414.336.75.75.75Z"
         clipRule="evenodd"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

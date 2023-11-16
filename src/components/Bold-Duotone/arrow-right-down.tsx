@@ -21,7 +21,7 @@ const SvgArrowRightDown = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M5.47 6.53a.75.75 0 0 1 1.06-1.06l6.97 6.97-1.06 1.06-6.97-6.97Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

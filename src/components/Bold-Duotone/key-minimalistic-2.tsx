@@ -21,7 +21,7 @@ const SvgKeyMinimalistic2 = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M10.609 14.452a7.045 7.045 0 0 1-1.06-1.06l-6.58 6.578a.75.75 0 1 0 1.061 1.06l.47-.47.97.97a.75.75 0 0 0 1.06-1.06l-.97-.97.94-.94.97.97a.75.75 0 0 0 1.06-1.06l-.97-.97 3.049-3.048Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

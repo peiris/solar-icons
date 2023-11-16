@@ -16,7 +16,7 @@ const SvgHashtag = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="M10 3 8.75 7.5l-.139.5-.833 3M5 21l1.944-7M19 3l-5 18M22 9H4M20 16H2"
       />
     </svg>

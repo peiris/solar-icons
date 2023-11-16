@@ -21,7 +21,7 @@ const SvgRevote = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="m8.5 12.5 2 2 5-5"
       />
     </svg>

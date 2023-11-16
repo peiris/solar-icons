@@ -16,7 +16,7 @@ const SvgTransferHorizontal = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="M9.5 4 4 10h10m6 0h-2.5M14.5 20l5.5-6H10m-6 0h2.5"
       />
     </svg>

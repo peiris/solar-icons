@@ -14,13 +14,13 @@ const SvgMicrophone3 = (props: SVGProps<SVGSVGElement>) => {
     >
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M7 8a5 5 0 0 1 10 0v3a5 5 0 0 1-10 0V8Z"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M11 8h2M10 11h4M20 10v1a8 8 0 0 1-8 8m-8-9v1a8 8 0 0 0 8 8m0 0v3"
         opacity={0.5}
       />

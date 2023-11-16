@@ -15,7 +15,7 @@ const SvgDropperMinimalistic = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M19 8h-2M19 14h-2M19 11h-2"
       />
       <path

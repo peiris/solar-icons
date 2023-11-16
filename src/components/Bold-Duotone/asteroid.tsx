@@ -15,7 +15,7 @@ const SvgAsteroid = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M12 2C6.477 2 2 6.477 2 12c0 .445.029.883.085 1.312a6 6 0 0 1 7.297 8.342c.835.226 1.712.346 2.618.346 4.879 0 8.941-3.494 9.823-8.116a6.002 6.002 0 0 1-3.505-9.636A9.959 9.959 0 0 0 12 2Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

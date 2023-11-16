@@ -14,13 +14,13 @@ const SvgFilters = (props: SVGProps<SVGSVGElement>) => {
     >
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M12 20.283A6 6 0 1 0 17.5 10"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M9 2.803A6 6 0 1 1 6.341 6"
       />
       <path

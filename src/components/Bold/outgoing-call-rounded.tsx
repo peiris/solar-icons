@@ -16,7 +16,7 @@ const SvgOutgoingCallRounded = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="m15 9 4-4m0 0v3m0-3h-3"
       />
       <path

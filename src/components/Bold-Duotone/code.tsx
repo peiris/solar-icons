@@ -19,7 +19,7 @@ const SvgCode = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M14.182 4.276a.75.75 0 0 1 .53.918l-3.974 14.83a.75.75 0 1 1-1.449-.389l3.974-14.83a.75.75 0 0 1 .919-.53Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

@@ -15,13 +15,13 @@ const SvgGps = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M12.5 14.959a3 3 0 1 1 2.459-2.459M2 12h2M20 12h2M12 4V2M12 22v-2"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M8 5.07A8 8 0 1 1 5.07 8"
       />
     </svg>

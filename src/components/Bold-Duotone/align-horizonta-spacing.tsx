@@ -17,7 +17,7 @@ const SvgAlignHorizontaSpacing = (props: SVGProps<SVGSVGElement>) => {
         fillRule="evenodd"
         d="M21 22.75a.75.75 0 0 1-.75-.75V2a.75.75 0 0 1 1.5 0v20a.75.75 0 0 1-.75.75Zm-18 0a.75.75 0 0 1-.75-.75V2a.75.75 0 0 1 1.5 0v20a.75.75 0 0 1-.75.75Z"
         clipRule="evenodd"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

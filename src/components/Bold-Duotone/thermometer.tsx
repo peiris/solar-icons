@@ -15,7 +15,7 @@ const SvgThermometer = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="m5.962 20.174-.383.384a1.51 1.51 0 1 1-2.137-2.137l.384-.383a2.014 2.014 0 0 0 .578-1.647l-.09-.799a3.021 3.021 0 0 1 .867-2.47l8.943-8.942a4.028 4.028 0 1 1 5.696 5.696l-8.942 8.943a3.02 3.02 0 0 1-2.47.866l-.8-.089a2.014 2.014 0 0 0-1.646.578Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

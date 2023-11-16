@@ -19,7 +19,7 @@ const SvgCorkscrew = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M21.358 10.385 13.615 2.64a2.19 2.19 0 1 0-3.097 3.098l7.743 7.743c.171.172.364.309.57.412A2.15 2.15 0 1 1 22 11.957a2.184 2.184 0 0 0-.642-1.572Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

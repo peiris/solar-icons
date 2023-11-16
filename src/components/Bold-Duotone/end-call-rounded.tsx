@@ -21,7 +21,7 @@ const SvgEndCallRounded = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M9 13.619s0-1.655 3-1.655 3 1.654 3 1.654V7.292A14.886 14.886 0 0 0 12 7c-1.106 0-2.103.108-3 .292v6.326Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

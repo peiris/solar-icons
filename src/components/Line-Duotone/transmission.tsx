@@ -14,7 +14,7 @@ const SvgTransmission = (props: SVGProps<SVGSVGElement>) => {
     >
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M6 4a2 2 0 1 1-4 0 2 2 0 0 1 4 0ZM6 20a2 2 0 1 1-4 0 2 2 0 0 1 4 0ZM14 20a2 2 0 1 1-4 0 2 2 0 0 1 4 0ZM14 4a2 2 0 1 1-4 0 2 2 0 0 1 4 0ZM22 4a2 2 0 1 1-4 0 2 2 0 0 1 4 0Z"
       />
       <path

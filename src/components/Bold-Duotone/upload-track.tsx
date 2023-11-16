@@ -15,7 +15,7 @@ const SvgUploadTrack = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M12 22a9.971 9.971 0 0 0 3.75-.727v-1.537a2.25 2.25 0 0 1-1.841-3.827l2.5-2.5a2.25 2.25 0 0 1 3.182 0l1.862 1.862A9.985 9.985 0 0 0 22 12c0-5.523-4.477-10-10-10S2 6.477 2 12s4.477 10 10 10Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

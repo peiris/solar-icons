@@ -15,7 +15,7 @@ const SvgZipFile = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M4.172 3.172C3 4.343 3 6.229 3 10v4c0 3.771 0 5.657 1.172 6.828C5.343 22 7.229 22 11 22h2c3.771 0 5.657 0 6.828-1.172C21 19.657 21 17.771 21 14v-4c0-3.771 0-5.657-1.172-6.828C18.657 2 16.771 2 13 2h-1l-2.5.003c-2.794.02-4.324.164-5.328 1.169Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

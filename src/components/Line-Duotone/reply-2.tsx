@@ -16,13 +16,13 @@ const SvgReply2 = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="m9.5 17-5-5 5-5"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M4.5 12h10c1.667 0 5-1 5-5"
         opacity={0.5}
       />

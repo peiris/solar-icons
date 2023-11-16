@@ -15,7 +15,7 @@ const SvgPills3 = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M14.757 7.121A3 3 0 1 0 19 2.88a3 3 0 0 0-4.243 4.242ZM20.905 17.381a3.738 3.738 0 0 0-5.286-5.286l-3.524 3.524a3.738 3.738 0 0 0 5.286 5.286l3.524-3.524Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

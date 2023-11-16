@@ -19,7 +19,7 @@ const SvgMapArrowRight = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M15.533 15.39a.5.5 0 0 0 .651.233l4.823-2.15c1.323-.59 1.323-2.355 0-2.945L12.109 6.56a.5.5 0 0 0-.651.68l4.075 8.15Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

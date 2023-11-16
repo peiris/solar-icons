@@ -25,7 +25,7 @@ const SvgAirbudsLeft = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M16.5 22a5.5 5.5 0 1 1 0-11 5.5 5.5 0 0 1 0 11Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"
@@ -36,7 +36,7 @@ const SvgAirbudsLeft = (props: SVGProps<SVGSVGElement>) => {
         fillRule="evenodd"
         d="M13.265 4.95a.75.75 0 0 0 .586.885 4.256 4.256 0 0 1 3.314 3.314.75.75 0 0 0 1.47-.298 5.756 5.756 0 0 0-4.486-4.486.75.75 0 0 0-.884.586Z"
         clipRule="evenodd"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

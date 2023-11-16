@@ -15,7 +15,7 @@ const SvgAlarm = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M12 22c4.836 0 8.756-3.884 8.756-8.675 0-4.79-3.92-8.675-8.756-8.675s-8.757 3.884-8.757 8.675C3.243 18.115 7.163 22 12 22Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

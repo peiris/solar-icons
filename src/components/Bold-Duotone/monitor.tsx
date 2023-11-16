@@ -15,7 +15,7 @@ const SvgMonitor = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M10 2h4c3.771 0 5.657 0 6.828 1.172C22 4.343 22 6.229 22 10v1c0 .552 0 1.55-.006 2H2.007C2 12.55 2 11.552 2 11v-1c0-3.771 0-5.657 1.172-6.828C4.343 2 6.229 2 10 2Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

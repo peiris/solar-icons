@@ -20,7 +20,7 @@ const SvgChatSquareCheck = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="M9 11.08 11 13l4-4"
         opacity={0.5}
       />

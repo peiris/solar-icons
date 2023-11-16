@@ -17,7 +17,7 @@ const SvgWalking = (props: SVGProps<SVGSVGElement>) => {
         cy={4.5}
         r={2.5}
         stroke="currentColor"
-        strokeWidth={1.5}
+        
       />
       <path
         fill="currentColor"
@@ -26,7 +26,7 @@ const SvgWalking = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M9 17.5 6 22"
       />
     </svg>

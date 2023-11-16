@@ -19,7 +19,7 @@ const SvgAirbudsCase = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M3.021 8.25h3.333A2.751 2.751 0 0 1 9 6.25h6c1.259 0 2.32.846 2.647 2h3.332c-.055-2.01-.248-3.245-.934-4.189a5 5 0 0 0-1.106-1.106C17.625 2 15.75 2 12 2c-3.75 0-5.624 0-6.939.955A5 5 0 0 0 3.955 4.06c-.686.944-.88 2.178-.934 4.189Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

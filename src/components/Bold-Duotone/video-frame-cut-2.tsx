@@ -12,7 +12,7 @@ const SvgVideoFrameCut2 = (props: SVGProps<SVGSVGElement>) => {
       height={24}
       {...props}
     >
-      <path fill="currentColor" d="M7.75 4v16h8.5V4h-8.5Z" opacity={0.5} />
+      <path fill="currentColor" d="M7.75 4v16h8.5V4h-8.5Z" opacity={0.3} />
       <path
         fill="currentColor"
         fillRule="evenodd"

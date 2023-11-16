@@ -21,7 +21,7 @@ const SvgWhisk = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M8.269 11.705c.141 1.029.535 1.998 1.281 2.744.747.747 1.717 1.141 2.745 1.282L6.86 21.166a2.847 2.847 0 0 1-4.026-4.026l5.435-5.435Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

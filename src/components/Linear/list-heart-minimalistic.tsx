@@ -15,7 +15,7 @@ const SvgListHeartMinimalistic = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M20 6H3M10 16H3M9 11H3"
       />
       <path

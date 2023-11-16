@@ -19,7 +19,7 @@ const SvgStickerSmileCircle = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M13.028 21.948c-.338.034-.681.052-1.028.052-5.523 0-10-4.477-10-10S6.477 2 12 2s10 4.477 10 10c0 .347-.018.69-.052 1.028h-1.376c-2.03.005-3 .041-3.78.314a5.621 5.621 0 0 0-3.45 3.45c-.273.78-.31 1.75-.314 3.78v1.376Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

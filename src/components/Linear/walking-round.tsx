@@ -17,12 +17,12 @@ const SvgWalkingRound = (props: SVGProps<SVGSVGElement>) => {
         cy={4.5}
         r={2.5}
         stroke="currentColor"
-        strokeWidth={1.5}
+        
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="m7 22 .51-.407A6.999 6.999 0 0 0 10 17.5"
       />
       <path

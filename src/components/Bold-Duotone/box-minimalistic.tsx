@@ -24,7 +24,7 @@ const SvgBoxMinimalistic = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M21.403 7.14a3.153 3.153 0 0 0-.041-.067L12 12v10c.944 0 1.822-.46 3.578-1.382l2-1.05c2.151-1.129 3.227-1.693 3.825-2.708C22 15.846 22 14.583 22 12.06v-.117c0-2.525 0-3.788-.597-4.802Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

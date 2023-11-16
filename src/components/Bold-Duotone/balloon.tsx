@@ -15,7 +15,7 @@ const SvgBalloon = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M12 18c4.142.034 7.594-3.92 7.56-8.196C19.527 5.53 16.142 2.034 12 2c-4.142-.034-7.473 3.404-7.44 7.68.034 4.275 3.298 8.285 7.44 8.32Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"
@@ -30,7 +30,7 @@ const SvgBalloon = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M11.25 19.786c.05.017.103.032.157.042.111.022.272.022.593.022.321 0 .482 0 .593-.022.054-.01.107-.024.157-.042v1.464a.75.75 0 0 1-1.5 0v-1.464Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

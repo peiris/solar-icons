@@ -23,7 +23,7 @@ const SvgMicrophone3 = (props: SVGProps<SVGSVGElement>) => {
         fillRule="evenodd"
         d="M12 2a5.75 5.75 0 0 0-5.75 5.75v3a5.75 5.75 0 0 0 11.5 0v-3A5.75 5.75 0 0 0 12 2Zm2 9.5a.75.75 0 0 0 0-1.5h-4a.75.75 0 0 0 0 1.5h4Zm-.25-3.75a.75.75 0 0 1-.75.75h-2A.75.75 0 0 1 11 7h2a.75.75 0 0 1 .75.75Z"
         clipRule="evenodd"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

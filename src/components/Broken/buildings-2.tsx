@@ -15,12 +15,12 @@ const SvgBuildings2 = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M22 22H2"
       />
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M17 22V6c0-1.886 0-2.828-.586-3.414C15.828 2 14.886 2 13 2h-2c-1.886 0-2.828 0-3.414.586C7 3.172 7 4.114 7 6v16"
       />
       <path
@@ -30,7 +30,7 @@ const SvgBuildings2 = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M12 22v-3M10 5h4M10 14h.5m3.5 0h-1.5M14 8h-.5M10 8h1.5M10 11h4"
       />
     </svg>

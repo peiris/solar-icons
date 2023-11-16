@@ -19,7 +19,7 @@ const SvgMenuDotsCircle = (props: SVGProps<SVGSVGElement>) => {
         strokeWidth={2}
         d="M8 12h.009m3.996 0h.008m3.978 0H16"
       />
-      <circle cx={12} cy={12} r={10} stroke="currentColor" strokeWidth={1.5} />
+      <circle cx={12} cy={12} r={10} stroke="currentColor"  />
     </svg>
   );
 };

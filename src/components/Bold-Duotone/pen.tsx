@@ -15,7 +15,7 @@ const SvgPen = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M20.849 8.713a3.932 3.932 0 0 0-5.562-5.561l-.887.887.038.111a8.754 8.754 0 0 0 2.093 3.32 8.754 8.754 0 0 0 3.43 2.13l.888-.887Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

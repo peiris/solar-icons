@@ -14,7 +14,7 @@ const SvgStopwatch = (props: SVGProps<SVGSVGElement>) => {
     >
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M21 13a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"
         opacity={0.5}
       />
@@ -22,13 +22,13 @@ const SvgStopwatch = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="M12 13V9"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M10 2h4"
       />
     </svg>

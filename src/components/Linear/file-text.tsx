@@ -19,12 +19,12 @@ const SvgFileText = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M6 14.5h8M6 18h5.5"
       />
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M13 2.5V5c0 2.357 0 3.536.732 4.268C14.464 10 15.643 10 18 10h4"
       />
     </svg>

@@ -15,7 +15,7 @@ const SvgHeartAngle = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="m12 5.501 2 2"
         opacity={0.5}
       />

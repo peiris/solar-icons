@@ -16,7 +16,7 @@ const SvgArrowRightDown = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="M18 18H9m9 0V9m0 9-6.5-6.5M6 6l2.5 2.5"
       />
     </svg>

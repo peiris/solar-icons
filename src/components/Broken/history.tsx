@@ -16,7 +16,7 @@ const SvgHistory = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="M12 8v4l2.5 2.5"
       />
       <path

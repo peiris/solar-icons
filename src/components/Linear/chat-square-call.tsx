@@ -19,7 +19,7 @@ const SvgChatSquareCall = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M12 15V7M8 13V9M16 13V9"
       />
     </svg>

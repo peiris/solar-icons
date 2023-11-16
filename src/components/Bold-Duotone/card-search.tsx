@@ -15,7 +15,7 @@ const SvgCardSearch = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M10 20h3.627a5.25 5.25 0 1 1 8.369-6.34C22 13.153 22 12.6 22 12c0-.442 0-1.608-.002-2H2.002C2 10.392 2 11.558 2 12c0 3.771 0 5.657 1.172 6.828C4.343 20 6.229 20 10 20Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

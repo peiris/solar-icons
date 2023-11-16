@@ -19,7 +19,7 @@ const SvgKeyMinimalisticSquare2 = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M2 11.99c0 4.719 0 7.078 1.466 8.544C4.932 22 7.29 22 12.01 22s7.078 0 8.544-1.466c1.115-1.115 1.382-2.747 1.446-5.541M9.007 2c-2.794.064-4.426.33-5.541 1.446-.977.977-1.303 2.35-1.412 4.554"
       />
     </svg>

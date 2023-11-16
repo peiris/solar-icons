@@ -15,7 +15,7 @@ const SvgCaseRound = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="#1C274D"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M9.17 4a3.001 3.001 0 0 1 5.66 0"
       />
       <path
@@ -25,13 +25,13 @@ const SvgCaseRound = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="#1C274D"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="m14.66 15 3.004-.783M9.34 15l-6.008-1.567c-.595-.155-.893-.233-1.082-.419a.891.891 0 0 1-.1-.116C2 12.688 2 12.417 2 11.876c0-2.13 0-3.195.673-3.914.13-.138.275-.264.434-.377C3.934 7 5.159 7 7.609 7h8.782c2.45 0 3.675 0 4.502.585.16.113.305.239.434.377.673.72.673 1.784.673 3.914 0 .54 0 .811-.15 1.022a.885.885 0 0 1-.1.116c-.15.148-.369.227-.75.331"
       />
       <path
         stroke="#1C274D"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M14 13.5h-4a.5.5 0 0 0-.5.5v2.162a.5.5 0 0 0 .314.464l.7.28a4 4 0 0 0 2.972 0l.7-.28a.5.5 0 0 0 .314-.465V14a.5.5 0 0 0-.5-.5Z"
       />
     </svg>

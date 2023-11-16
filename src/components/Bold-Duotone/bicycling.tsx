@@ -23,7 +23,7 @@ const SvgBicycling = (props: SVGProps<SVGSVGElement>) => {
         fill="currentColor"
         fillRule="evenodd"
         clipRule="evenodd"
-        opacity={0.5}
+        opacity={0.3}
       >
         <path d="M18 14.25a3.75 3.75 0 1 0 0 7.5 3.75 3.75 0 0 0 0-7.5Zm0 1.5a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 0 0 0-4.5ZM6 14.25a3.75 3.75 0 1 0 0 7.5 3.75 3.75 0 0 0 0-7.5Zm0 1.5a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 0 0 0-4.5Z" />
       </g>

@@ -12,24 +12,24 @@ const SvgTreadmillRound = (props: SVGProps<SVGSVGElement>) => {
       height={24}
       {...props}
     >
-      <circle cx={15} cy={4} r={2} stroke="currentColor" strokeWidth={1.5} />
+      <circle cx={15} cy={4} r={2} stroke="currentColor"  />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M11 16v-.974c0-.118 0-.177-.002-.234a3 3 0 0 0-.992-2.117c-.042-.038-.087-.076-.178-.152-.134-.111-.2-.167-.252-.216a2 2 0 0 1-.125-2.75c.047-.055.108-.116.231-.239l.33-.33a1.904 1.904 0 0 0-2.356-2.96L4.5 8"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M3 15.5h.379c1.358 0 2.66-.54 3.621-1.5M12.5 10a4.743 4.743 0 0 0 3 0"
         opacity={0.5}
       />
       <path
         stroke="currentColor"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="M19.489 22H3.087a1.087 1.087 0 0 1-.188-2.158l16.157-2.827A2.511 2.511 0 1 1 19.489 22Z"
       />
       <path

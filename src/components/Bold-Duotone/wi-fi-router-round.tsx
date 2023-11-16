@@ -25,7 +25,7 @@ const SvgWiFiRouterRound = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="m5.469 19.511-1.112 1.853a.75.75 0 0 0 1.286.772l1.432-2.386H7a4.997 4.997 0 0 1-1.531-.239ZM16.925 19.75l1.432 2.386a.75.75 0 0 0 1.286-.772l-1.112-1.853a4.998 4.998 0 0 1-1.531.24h-.075Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

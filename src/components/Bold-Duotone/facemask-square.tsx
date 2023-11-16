@@ -15,7 +15,7 @@ const SvgFacemaskSquare = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M3.464 3.464C2 4.93 2 7.286 2 12v.25a.75.75 0 0 1 .279.054L7 14.192l2.864-1.146a5.75 5.75 0 0 1 4.272 0L17 14.192l4.721-1.888A.75.75 0 0 1 22 12.25V12c0-4.714 0-7.071-1.465-8.536C19.072 2 16.714 2 12 2S4.929 2 3.464 3.464Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

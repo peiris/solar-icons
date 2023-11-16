@@ -15,7 +15,7 @@ const SvgTextUnderline = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M5 3a1 1 0 0 0-2 0v6a9 9 0 1 0 18 0V3a1 1 0 1 0-2 0v6A7 7 0 1 1 5 9V3Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path fill="currentColor" d="M4 20a1 1 0 1 0 0 2h16a1 1 0 1 0 0-2H4Z" />
     </svg>

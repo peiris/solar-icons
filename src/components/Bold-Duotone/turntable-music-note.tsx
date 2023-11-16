@@ -15,7 +15,7 @@ const SvgTurntableMusicNote = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M3.172 3.464C2 4.93 2 7.286 2 12c0 4.714 0 7.071 1.172 8.535C4.343 22 6.229 22 10 22h3.376A4.25 4.25 0 0 1 17 16.007V12.25a2.25 2.25 0 0 1 4.5 0 .75.75 0 0 0 .5.707V12c0-4.714 0-7.071-1.172-8.536C19.657 2 17.771 2 14 2h-4C6.229 2 4.343 2 3.172 3.464Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

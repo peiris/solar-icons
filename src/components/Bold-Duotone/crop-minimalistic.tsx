@@ -15,7 +15,7 @@ const SvgCropMinimalistic = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M3.172 3.172C2 4.343 2 6.229 2 10v4c0 3.771 0 5.657 1.172 6.828C4.343 22 6.229 22 10 22h4c3.771 0 5.657 0 6.828-1.172C22 19.657 22 17.771 22 14v-4c0-3.771 0-5.657-1.172-6.828C19.657 2 17.771 2 14 2h-4C6.229 2 4.343 2 3.172 3.172Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

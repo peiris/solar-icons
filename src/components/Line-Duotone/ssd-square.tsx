@@ -15,7 +15,7 @@ const SvgSsdSquare = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M19 17v1M16.5 17v1M14 17v1M11.5 17v1"
         opacity={0.4}
       />

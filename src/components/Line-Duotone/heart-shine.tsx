@@ -15,14 +15,14 @@ const SvgHeartShine = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M12 2v2M12 20v2M2 12h2M20 12h2"
         opacity={0.5}
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="m6 18 .343-.343M17.657 6.343 18 6M18 18l-.343-.343M6.343 6.343 6 6"
       />
       <path

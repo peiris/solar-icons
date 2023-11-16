@@ -19,7 +19,7 @@ const SvgCrown = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M5 17.5h14"
         opacity={0.5}
       />

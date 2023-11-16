@@ -12,13 +12,13 @@ const SvgBowling = (props: SVGProps<SVGSVGElement>) => {
       height={24}
       {...props}
     >
-      <circle cx={12} cy={12} r={10} stroke="currentColor" strokeWidth={1.5} />
+      <circle cx={12} cy={12} r={10} stroke="currentColor"  />
       <circle
         cx={12}
         cy={7}
         r={1.5}
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         opacity={0.5}
         transform="rotate(-90 12 7)"
       />
@@ -27,13 +27,13 @@ const SvgBowling = (props: SVGProps<SVGSVGElement>) => {
         cy={12}
         r={1.5}
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         opacity={0.5}
         transform="rotate(-90 12 12)"
       />
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M8 8a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3Z"
         opacity={0.5}
       />

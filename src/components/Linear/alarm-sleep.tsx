@@ -12,12 +12,12 @@ const SvgAlarmSleep = (props: SVGProps<SVGSVGElement>) => {
       height={24}
       {...props}
     >
-      <circle cx={12} cy={13} r={9} stroke="currentColor" strokeWidth={1.5} />
+      <circle cx={12} cy={13} r={9} stroke="currentColor"  />
       <path
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="m3.5 4.5 4-2.5M20.5 4.5l-4-2.5M9 10h6l-6 6h6"
       />
     </svg>

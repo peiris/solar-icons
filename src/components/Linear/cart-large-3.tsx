@@ -14,7 +14,7 @@ const SvgCartLarge3 = (props: SVGProps<SVGSVGElement>) => {
     >
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M7.5 18a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM16.5 18a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3Z"
       />
       <path
@@ -24,7 +24,7 @@ const SvgCartLarge3 = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M16.5 6.5 15 15M9 6.5l1.5 8.5"
       />
     </svg>

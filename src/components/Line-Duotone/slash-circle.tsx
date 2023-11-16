@@ -15,7 +15,7 @@ const SvgSlashCircle = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M13.294 7.17 12 12l-1.294 4.83"
       />
       <circle
@@ -23,7 +23,7 @@ const SvgSlashCircle = (props: SVGProps<SVGSVGElement>) => {
         cy={12}
         r={10}
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         opacity={0.5}
       />
     </svg>

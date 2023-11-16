@@ -17,12 +17,12 @@ const SvgHiking = (props: SVGProps<SVGSVGElement>) => {
         cy={4.5}
         r={2.5}
         stroke="currentColor"
-        strokeWidth={1.5}
+        
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M9 17.5 6 22"
         opacity={0.5}
       />
@@ -33,13 +33,13 @@ const SvgHiking = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M19 22V8"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="m8 10-1.672.557A1.942 1.942 0 0 0 5 12.4c0 .368.208.704.537.868L8 14.5"
         opacity={0.5}
       />

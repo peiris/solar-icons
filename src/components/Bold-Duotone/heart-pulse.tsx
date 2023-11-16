@@ -15,7 +15,7 @@ const SvgHeartPulse = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M2 9.26c0 3.748 4.02 7.711 6.962 10.11C10.294 20.458 10.96 21 12 21c1.04 0 1.706-.543 3.038-1.63C17.981 16.972 22 13.009 22 9.26 22 3.35 16.5.663 12 5.5 7.5.663 2 3.349 2 9.26Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

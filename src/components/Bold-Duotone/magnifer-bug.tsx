@@ -15,7 +15,7 @@ const SvgMagniferBug = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M11.157 20.313a9.157 9.157 0 1 0 0-18.313 9.157 9.157 0 0 0 0 18.313Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

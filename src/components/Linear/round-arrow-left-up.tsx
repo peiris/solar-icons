@@ -12,12 +12,12 @@ const SvgRoundArrowLeftUp = (props: SVGProps<SVGSVGElement>) => {
       height={24}
       {...props}
     >
-      <circle cx={12} cy={12} r={10} stroke="currentColor" strokeWidth={1.5} />
+      <circle cx={12} cy={12} r={10} stroke="currentColor"  />
       <path
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="M15 15 9 9m0 0h4.5M9 9v4.5"
       />
     </svg>

@@ -19,7 +19,7 @@ const SvgArmchair = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M6 8.154V17h12V8.154c0-2.3 0-3.451-.482-4.308A3.648 3.648 0 0 0 16.2 2.495C15.365 2 14.243 2 12 2c-2.243 0-3.365 0-4.2.495a3.647 3.647 0 0 0-1.318 1.351C6 4.703 6 5.853 6 8.154Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

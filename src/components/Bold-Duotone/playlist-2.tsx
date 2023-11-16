@@ -17,7 +17,7 @@ const SvgPlaylist2 = (props: SVGProps<SVGSVGElement>) => {
         fillRule="evenodd"
         d="M2.25 5A.75.75 0 0 1 3 4.25h12a.75.75 0 0 1 0 1.5H3A.75.75 0 0 1 2.25 5Zm0 4A.75.75 0 0 1 3 8.25h10a.75.75 0 0 1 0 1.5H3A.75.75 0 0 1 2.25 9Zm0 4a.75.75 0 0 1 .75-.75h6a.75.75 0 0 1 0 1.5H3a.75.75 0 0 1-.75-.75Zm0 4a.75.75 0 0 1 .75-.75h5a.75.75 0 0 1 0 1.5H3a.75.75 0 0 1-.75-.75Z"
         clipRule="evenodd"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

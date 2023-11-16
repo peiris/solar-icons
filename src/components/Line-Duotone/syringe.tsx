@@ -19,13 +19,13 @@ const SvgSyringe = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M17.091 14.182 9.818 6.909"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M6.182 17.818 4 20"
         opacity={0.5}
       />

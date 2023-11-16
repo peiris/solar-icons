@@ -15,7 +15,7 @@ const SvgArchiveUpMinimlistic = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M12 2c4.713 0 7.07 0 8.535 1.464.757.758 1.123 1.754 1.3 3.192V10H2.164V6.656c.176-1.438.541-2.434 1.299-3.192C4.928 2 7.285 2 11.999 2Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

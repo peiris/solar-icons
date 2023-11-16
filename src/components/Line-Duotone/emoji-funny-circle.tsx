@@ -17,13 +17,13 @@ const SvgEmojiFunnyCircle = (props: SVGProps<SVGSVGElement>) => {
         cy={12}
         r={10}
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         opacity={0.5}
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M8.913 15.934c1.258.315 2.685.315 4.122-.07 1.437-.385 2.673-1.099 3.605-2.001"
       />
       <ellipse
@@ -44,7 +44,7 @@ const SvgEmojiFunnyCircle = (props: SVGProps<SVGSVGElement>) => {
       />
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="m13 16 .478.974a1.5 1.5 0 1 0 2.693-1.322l-.46-.935"
       />
     </svg>

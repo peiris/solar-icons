@@ -18,7 +18,7 @@ const SvgUmbrella = (props: SVGProps<SVGSVGElement>) => {
       />
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M16.915 12C16.635 9.289 15.555 2 12 2 8.446 2 7.365 9.289 7.086 12"
       />
     </svg>

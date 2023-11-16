@@ -15,7 +15,7 @@ const SvgHamburgerMenu = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M20 7H4M20 12H4M20 17H4"
       />
     </svg>

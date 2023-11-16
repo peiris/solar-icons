@@ -16,7 +16,7 @@ const SvgRestart = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         clipPath="url(#Restart_svg__a)"
       >
         <path d="M19.729 10.929a8 8 0 1 1-2.072-3.585l.707.706" opacity={0.5} />

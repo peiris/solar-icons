@@ -15,7 +15,7 @@ const SvgRoundedMagnifer = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M20.128 11.143c0 5.05-4.058 9.143-9.064 9.143S2 16.192 2 11.143C2 6.093 6.058 2 11.064 2s9.064 4.093 9.064 9.143Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

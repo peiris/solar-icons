@@ -19,7 +19,7 @@ const SvgSortVertical = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M12 13.125a.75.75 0 0 1 .538 1.272l-4 4.125a.75.75 0 0 1-1.076 0l-4-4.125A.75.75 0 0 1 4 13.125h3.25V6a.75.75 0 1 1 1.5 0v7.125H12Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

@@ -15,7 +15,7 @@ const SvgVideoFrameCut = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M9.5 3.003h5c.648.005 1.229.016 1.75.043v17.907c-.521.027-1.102.038-1.75.043h-5a39.89 39.89 0 0 1-1.75-.043V3.046a39.835 39.835 0 0 1 1.75-.043Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

@@ -15,7 +15,7 @@ const SvgRoute = (props: SVGProps<SVGSVGElement>) => {
       <g
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         clipPath="url(#Route_svg__a)"
       >
         <path d="M19.071 4.929c3.333 3.333 5 5 5 7.07 0 2.072-1.667 3.739-5 7.072s-5 5-7.071 5c-2.071 0-3.738-1.667-7.071-5-3.333-3.334-5-5-5-7.071 0-2.071 1.667-3.738 5-7.071 3.333-3.334 5-5 7.071-5 1.377 0 2.575.737 4.204 2.21" />

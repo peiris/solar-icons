@@ -15,7 +15,7 @@ const SvgScreencast2 = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M14 3h-4C6.229 3 4.343 3 3.172 4.172 2 5.343 2 7.229 2 11c0 3.771 0 5.657 1.172 6.828C4.343 19 6.229 19 10 19h4c3.771 0 5.657 0 6.828-1.172C22 16.657 22 14.771 22 11c0-3.771 0-5.657-1.172-6.828C19.657 3 17.771 3 14 3Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

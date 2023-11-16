@@ -17,7 +17,7 @@ const SvgUserRounded = (props: SVGProps<SVGSVGElement>) => {
         cx={12}
         cy={17}
         fill="currentColor"
-        opacity={0.5}
+        opacity={0.3}
         rx={7}
         ry={4}
       />

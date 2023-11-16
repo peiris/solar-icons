@@ -15,7 +15,7 @@ const SvgHeartUnlock = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M7 7c0-3.314 1.937-5 4.872-5 1.852 0 3.307.672 4.128 2M12 12v2.5"
       />
       <path

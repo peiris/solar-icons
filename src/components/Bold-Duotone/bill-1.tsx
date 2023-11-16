@@ -21,7 +21,7 @@ const SvgBill1 = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M4 3.75v9.527c0 1.34 0 2.01.268 2.601.268.591.772 1.032 1.781 1.915l2 1.75c1.883 1.647 2.824 2.47 3.951 2.47 1.127 0 2.069-.823 3.951-2.47l2-1.75c1.008-.883 1.513-1.324 1.78-1.915.269-.59.269-1.26.269-2.6V3.75H4Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

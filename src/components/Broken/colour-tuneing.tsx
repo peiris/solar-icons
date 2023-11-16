@@ -15,7 +15,7 @@ const SvgColourTuneing = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M2 12h7.5M22 12h-7.5M20 15.684C20 19 17.735 22 16 22c-1.257 0-2.328-.97-3.032-3M4.144 8.316C4.144 5 6.41 2 8.144 2c2.269 0 3.928 3.158 3.928 10 0 1.093.043 2.093.123 3"
       />
     </svg>

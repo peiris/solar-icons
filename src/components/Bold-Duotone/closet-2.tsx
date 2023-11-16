@@ -21,7 +21,7 @@ const SvgCloset2 = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M14 20h-2V2h2c3.771 0 5.657 0 6.828 1.172C22 4.343 22 6.229 22 10v2c0 3.771 0 5.657-1.172 6.828a3.1 3.1 0 0 1-1.078.697V22a.75.75 0 0 1-1.5 0v-2.129C17.18 20 15.806 20 14 20Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

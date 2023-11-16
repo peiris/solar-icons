@@ -19,7 +19,7 @@ const SvgChefHat = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M7 5a5 5 0 0 0-2 9.584V18h14v-3.416a5.001 5.001 0 0 0-2.737-9.53 4.502 4.502 0 0 0-8.526 0A5.04 5.04 0 0 0 7 5Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

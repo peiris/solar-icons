@@ -21,7 +21,7 @@ const SvgCartLarge2 = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M5.745 6c.005.26.005.54.005.841V9.5c0 1.435.002 2.437.103 3.192.015.11.032.213.05.308h10.12c.959 0 1.438 0 1.814-.248.376-.248.565-.688.942-1.57l.43-1c.809-1.89 1.213-2.833.769-3.508C19.533 6 18.506 6 16.45 6H5.745Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

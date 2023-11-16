@@ -15,13 +15,13 @@ const SvgMouseCircle = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M16 14a4 4 0 0 1-8 0v-4a4 4 0 1 1 8 0M8.5 10H16M12 10V6"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M12 8.892V3.85c0-1.114-.905-2.037-1.987-1.817C5.442 2.962 2 7.034 2 11.917A10.1 10.1 0 0 0 3.362 17M16.364 2.842A10.091 10.091 0 0 1 22 11.917C22 17.486 17.523 22 12 22a9.89 9.89 0 0 1-5-1.349"
       />
     </svg>

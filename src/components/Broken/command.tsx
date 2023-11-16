@@ -15,12 +15,12 @@ const SvgCommand = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M8 13v3h8V8H8v1"
       />
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M16 16.001h3a3 3 0 1 1-3 3v-3ZM8.001 16.001h-3a3 3 0 1 0 3 3v-3ZM16 8h3a3 3 0 1 0-3-3v3ZM8.001 8h-3a3 3 0 1 1 3-3v3Z"
       />
     </svg>

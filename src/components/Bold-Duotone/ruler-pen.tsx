@@ -15,7 +15,7 @@ const SvgRulerPen = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M16 22c-1.886 0-2.828 0-3.414-.586-.503-.502-.574-1.267-.584-2.664L12 17.25V6.75l.002-1.5c.01-1.397.081-2.162.584-2.664C13.172 2 14.114 2 16 2h2c1.886 0 2.828 0 3.414.586C22 3.172 22 4.114 22 6v12c0 1.886 0 2.828-.586 3.414C20.828 22 19.886 22 18 22h-2Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"
@@ -24,7 +24,7 @@ const SvgRulerPen = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M5 2a3 3 0 0 1 3 3v2a7.85 7.85 0 0 1-3 .589A7.85 7.85 0 0 1 2 7V5a3 3 0 0 1 3-3Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

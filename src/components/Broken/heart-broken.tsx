@@ -20,7 +20,7 @@ const SvgHeartBroken = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="m12 5.5-1.5 3L14 11l-3 3.5 2 2-1 4"
       />
     </svg>

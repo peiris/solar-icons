@@ -17,13 +17,13 @@ const SvgCloseCircle = (props: SVGProps<SVGSVGElement>) => {
         cy={12}
         r={10}
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         opacity={0.5}
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="m14.5 9.5-5 5m0-5 5 5"
       />
     </svg>

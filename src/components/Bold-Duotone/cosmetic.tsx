@@ -15,7 +15,7 @@ const SvgCosmetic = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M2 11.5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 .5.5V18a3 3 0 1 1-6 0v-6.5Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"
@@ -24,7 +24,7 @@ const SvgCosmetic = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M15.75 15.95v3.55H13.5a.75.75 0 0 0 0 1.5h6a.75.75 0 0 0 0-1.5h-2.25v-3.55a5.539 5.539 0 0 1-1.5 0Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

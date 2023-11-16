@@ -17,7 +17,7 @@ const SvgBedsideTable = (props: SVGProps<SVGSVGElement>) => {
         fillRule="evenodd"
         d="M2 10c0-.442.002-1.608.004-2H22c.002.392 0 1.558 0 2v2c0 .442 0 1.608-.002 2H2.002C2 13.608 2 12.442 2 12v-2Z"
         clipRule="evenodd"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path fill="currentColor" d="M13 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z" />
       <path

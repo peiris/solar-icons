@@ -14,7 +14,7 @@ const SvgMapPointRotate = (props: SVGProps<SVGSVGElement>) => {
     >
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M14 8a2 2 0 1 1-4 0 2 2 0 0 1 4 0Z"
       />
       <path
@@ -24,7 +24,7 @@ const SvgMapPointRotate = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M6.75 11.912C6.264 10.672 6 9.351 6 8.107 6 4.734 8.686 2 12 2s6 2.734 6 6.107c0 3.347-1.915 7.252-4.903 8.649a2.587 2.587 0 0 1-2.194 0c-.954-.446-1.8-1.148-2.507-2.006"
       />
     </svg>

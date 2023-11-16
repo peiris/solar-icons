@@ -32,7 +32,7 @@ const SvgFlashDrive = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="m18.717 7.403-.707.707M16.596 5.282l-.707.707"
         opacity={0.5}
       />

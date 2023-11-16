@@ -15,7 +15,7 @@ const SvgCallCancel = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="m20 4-4 4m0-4 4 4"
       />
       <path

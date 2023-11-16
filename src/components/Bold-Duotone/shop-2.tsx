@@ -21,7 +21,7 @@ const SvgShop2 = (props: SVGProps<SVGSVGElement>) => {
         fillRule="evenodd"
         d="M4 11a2 2 0 0 0 2-2 2 2 0 1 0 4 0 2 2 0 1 0 4 0 2 2 0 1 0 4 0 2 2 0 0 0 2 2v10.25h-5.5V18.5c0-.935 0-1.402-.201-1.75a1.5 1.5 0 0 0-.549-.549C13.402 16 12.935 16 12 16s-1.402 0-1.75.201a1.5 1.5 0 0 0-.549.549c-.201.348-.201.815-.201 1.75v2.75H4V11Z"
         clipRule="evenodd"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

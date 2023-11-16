@@ -21,7 +21,7 @@ const SvgAlignBottom = (props: SVGProps<SVGSVGElement>) => {
         fillRule="evenodd"
         d="M1.25 21a.75.75 0 0 1 .75-.75h20a.75.75 0 0 1 0 1.5H2a.75.75 0 0 1-.75-.75Z"
         clipRule="evenodd"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

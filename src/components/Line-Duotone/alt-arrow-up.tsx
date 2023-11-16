@@ -16,7 +16,7 @@ const SvgAltArrowUp = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="m19 15-7-6-7 6"
       />
     </svg>

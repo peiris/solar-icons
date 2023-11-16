@@ -26,7 +26,7 @@ const SvgChart = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M1.75 20.5a.75.75 0 0 0 0 1.5h20a.75.75 0 0 0 0-1.5h-20Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

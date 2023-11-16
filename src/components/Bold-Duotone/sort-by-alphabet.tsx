@@ -23,12 +23,12 @@ const SvgSortByAlphabet = (props: SVGProps<SVGSVGElement>) => {
         fillRule="evenodd"
         d="M2.25 7A.75.75 0 0 1 3 6.25h10a.75.75 0 0 1 0 1.5H3A.75.75 0 0 1 2.25 7Z"
         clipRule="evenodd"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"
         d="M2.25 12a.75.75 0 0 1 .75-.75h7a.75.75 0 0 1 0 1.5H3a.75.75 0 0 1-.75-.75ZM2.25 17a.75.75 0 0 1 .75-.75h5a.75.75 0 0 1 0 1.5H3a.75.75 0 0 1-.75-.75Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

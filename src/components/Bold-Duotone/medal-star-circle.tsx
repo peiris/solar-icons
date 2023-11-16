@@ -15,7 +15,7 @@ const SvgMedalStarCircle = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M13 2h-2c-1.886 0-2.828 0-3.414.586C7 3.172 7 4.114 7 6v4h10V6c0-1.886 0-2.828-.586-3.414C15.828 2 14.886 2 13 2Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

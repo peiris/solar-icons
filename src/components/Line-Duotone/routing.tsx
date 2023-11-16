@@ -21,10 +21,10 @@ const SvgRouting = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="m18 17 2 2-2 2"
       />
-      <circle cx={6} cy={5} r={2} stroke="currentColor" strokeWidth={1.5} />
+      <circle cx={6} cy={5} r={2} stroke="currentColor"  />
     </svg>
   );
 };

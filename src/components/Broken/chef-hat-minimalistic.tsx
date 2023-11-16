@@ -16,7 +16,7 @@ const SvgChefHatMinimalistic = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="M9 18h6"
       />
       <path

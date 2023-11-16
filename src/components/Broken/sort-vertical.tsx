@@ -16,7 +16,7 @@ const SvgSortVertical = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="M16 18v-2m0-10 4 4.125M16 6l-4 4.125M16 6v7M8 18l4-4.125M8 18l-4-4.125M8 18v-7m0-5v2"
       />
     </svg>

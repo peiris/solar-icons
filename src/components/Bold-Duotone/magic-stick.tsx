@@ -19,7 +19,7 @@ const SvgMagicStick = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M19.53 18.47a.75.75 0 1 0-1.06 1.06l2 2a.75.75 0 1 0 1.06-1.06l-2-2Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

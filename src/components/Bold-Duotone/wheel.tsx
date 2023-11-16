@@ -12,7 +12,7 @@ const SvgWheel = (props: SVGProps<SVGSVGElement>) => {
       height={24}
       {...props}
     >
-      <g fill="currentColor" opacity={0.5}>
+      <g fill="currentColor" opacity={0.3}>
         <path d="M12 15a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z" />
         <path
           fillRule="evenodd"

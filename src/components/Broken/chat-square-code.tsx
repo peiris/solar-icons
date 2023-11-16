@@ -19,7 +19,7 @@ const SvgChatSquareCode = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="m15.5 7.83.172.172c1.333 1.333 2 2 2 2.828 0 .829-.667 1.495-2 2.829l-.172.171M13.294 6 12 10.83l-1.294 4.83M8.5 7.83l-.172.172c-1.333 1.333-2 2-2 2.828 0 .829.667 1.495 2 2.829l.172.171"
       />
     </svg>

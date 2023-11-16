@@ -15,7 +15,7 @@ const SvgPresentationGraph = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M4 10.5V2.75h16v7.75c0 3.064 0 4.596-1.004 5.548s-2.62.952-5.853.952h-2.286c-3.232 0-4.849 0-5.853-.952C4 15.096 4 13.564 4 10.5Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

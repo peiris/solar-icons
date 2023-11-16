@@ -19,7 +19,7 @@ const SvgTransferVertical = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M4 13.75h5.25V4a.75.75 0 1 1 1.5 0v16a.75.75 0 0 1-1.257.553l-6-5.5A.75.75 0 0 1 4 13.75Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

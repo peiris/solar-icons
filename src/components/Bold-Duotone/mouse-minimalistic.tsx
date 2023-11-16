@@ -15,7 +15,7 @@ const SvgMouseMinimalistic = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M19 15V9A7 7 0 1 0 5 9v6a7 7 0 1 0 14 0Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

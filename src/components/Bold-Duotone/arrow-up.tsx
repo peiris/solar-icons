@@ -17,7 +17,7 @@ const SvgArrowUp = (props: SVGProps<SVGSVGElement>) => {
         fillRule="evenodd"
         d="M12 20.75a.75.75 0 0 0 .75-.75v-9.25h-1.5V20c0 .414.336.75.75.75Z"
         clipRule="evenodd"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

@@ -21,7 +21,7 @@ const SvgLike = (props: SVGProps<SVGSVGElement>) => {
         fillRule="evenodd"
         d="M2.968 9.485a.75.75 0 0 1 .78.685l.97 11.236a1.237 1.237 0 1 1-2.468.107V10.234a.75.75 0 0 1 .718-.749Z"
         clipRule="evenodd"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

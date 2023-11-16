@@ -16,13 +16,13 @@ const SvgForward2 = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="m14.5 17 5-5-5-5"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M19.5 12h-10c-1.667 0-5-1-5-5"
         opacity={0.5}
       />

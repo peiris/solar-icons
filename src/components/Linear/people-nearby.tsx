@@ -14,7 +14,7 @@ const SvgPeopleNearby = (props: SVGProps<SVGSVGElement>) => {
     >
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M14 4a2 2 0 1 1-4 0 2 2 0 0 1 4 0Z"
       />
       <path
@@ -24,7 +24,7 @@ const SvgPeopleNearby = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M19.454 14.5c1.583.796 2.546 1.848 2.546 3 0 2.485-4.477 4.5-10 4.5S2 19.985 2 17.5c0-1.152.963-2.204 2.546-3"
       />
     </svg>

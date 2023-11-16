@@ -17,13 +17,13 @@ const SvgDangerCircle = (props: SVGProps<SVGSVGElement>) => {
         cy={12}
         r={10}
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         opacity={0.5}
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M12 7v6"
       />
       <circle cx={12} cy={16} r={1} fill="currentColor" />

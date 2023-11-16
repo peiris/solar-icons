@@ -21,7 +21,7 @@ const SvgMoonFog = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M4.25 19a.75.75 0 0 1 .75-.75h14a.75.75 0 0 1 0 1.5H5a.75.75 0 0 1-.75-.75ZM12 2C6.477 2 2 6.477 2 12c0 1.422.297 2.775.832 4h18.336A9.966 9.966 0 0 0 22 12c0-.463-.694-.54-.933-.143a6.5 6.5 0 1 1-8.924-8.924C12.54 2.693 12.463 2 12 2Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

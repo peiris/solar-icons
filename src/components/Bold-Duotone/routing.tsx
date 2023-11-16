@@ -22,7 +22,7 @@ const SvgRouting = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M7.855 5.75a1.994 1.994 0 0 0 0-1.5H16.5a4.25 4.25 0 0 1 0 8.5h-9a2.75 2.75 0 1 0 0 5.5h10.69l.75.75-.75.75H7.5a4.25 4.25 0 0 1 0-8.5h9a2.75 2.75 0 1 0 0-5.5H7.855Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

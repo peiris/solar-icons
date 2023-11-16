@@ -16,7 +16,7 @@ const SvgTuning2 = (props: SVGProps<SVGSVGElement>) => {
         fill="currentColor"
         d="M9.25 14a3 3 0 1 1 0 6 3 3 0 0 1 0-6ZM14.25 4a3 3 0 1 0 0 6 3 3 0 0 0 0-6Z"
       />
-      <g fill="currentColor" opacity={0.5}>
+      <g fill="currentColor" opacity={0.3}>
         <path d="M17.166 7.709a3.008 3.008 0 0 0-.021-1.5h4.605a.75.75 0 0 1 0 1.5h-4.584ZM11.356 6.209a3.003 3.003 0 0 0-.022 1.5H1.75a.75.75 0 0 1 0-1.5h9.606ZM6.356 16.209H1.75a.75.75 0 0 0 0 1.5h4.584a3.007 3.007 0 0 1 .022-1.5ZM12.166 17.709h9.584a.75.75 0 0 0 0-1.5h-9.605a3.003 3.003 0 0 1 .02 1.5Z" />
       </g>
     </svg>

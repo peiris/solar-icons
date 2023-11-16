@@ -21,7 +21,7 @@ const SvgPieChart3 = (props: SVGProps<SVGSVGElement>) => {
         fillRule="evenodd"
         d="M13.774 2.128a.75.75 0 0 1 .913-.54 10.768 10.768 0 0 1 7.725 7.725.75.75 0 0 1-1.453.374 9.267 9.267 0 0 0-6.646-6.646.75.75 0 0 1-.54-.913Z"
         clipRule="evenodd"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

@@ -15,7 +15,7 @@ const SvgScooter = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M6.5 19a3 3 0 0 0 3-3h-6a3 3 0 0 0 3 3ZM18.824 10.498 18 11l-1.643-3.5h1.482c.618 0 .927 0 1.157.132a1 1 0 0 1 .372.372c.132.23.132.54.132 1.157 0 .326 0 .49-.047.638a.998.998 0 0 1-.143.282c-.091.126-.223.223-.486.417Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

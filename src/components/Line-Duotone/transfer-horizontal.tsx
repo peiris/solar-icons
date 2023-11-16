@@ -16,14 +16,14 @@ const SvgTransferHorizontal = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="M20 10H4l5.5-6"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="M4 14h16l-5.5 6"
         opacity={0.5}
       />

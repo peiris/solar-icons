@@ -15,7 +15,7 @@ const SvgShopMinimalistic = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M19 14.25a.75.75 0 0 1 .75.75v6.25H21a.75.75 0 0 1 0 1.5H3a.75.75 0 0 1 0-1.5h1.25V15a.75.75 0 0 1 1.5 0v6.25h12.5V15a.75.75 0 0 1 .75-.75Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

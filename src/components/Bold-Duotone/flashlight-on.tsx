@@ -15,7 +15,7 @@ const SvgFlashlightOn = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M9 19v-1.343c0-.818 0-1.226-.152-1.594A1.48 1.48 0 0 0 8.82 16h6.36c-.01.02-.019.042-.027.063-.153.368-.153.776-.153 1.594V20c0 .943 0 1.414-.293 1.707C14.416 22 13.944 22 13 22h-2c-.942 0-1.414 0-1.707-.293C9 21.414 9 20.943 9 20v-1Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"
@@ -26,7 +26,7 @@ const SvgFlashlightOn = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M20 10.172V10c0-.943 0-1.414-.293-1.707C19.414 8 18.943 8 18 8H6c-.943 0-1.414 0-1.707.293C4 8.586 4 9.057 4 10v.172c0 .408 0 .613.076.797L4.09 11h15.82l.014-.031c.076-.184.076-.389.076-.797Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

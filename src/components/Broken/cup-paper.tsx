@@ -19,7 +19,7 @@ const SvgCupPaper = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M6.5 12H12m5.5 0H16M7 17h10"
       />
     </svg>

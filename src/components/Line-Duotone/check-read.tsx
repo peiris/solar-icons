@@ -16,7 +16,7 @@ const SvgCheckRead = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="m4 12.9 3.143 3.6L15 7.5"
         opacity={0.5}
       />
@@ -24,7 +24,7 @@ const SvgCheckRead = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="m20 7.563-8.571 9L11 16"
       />
     </svg>

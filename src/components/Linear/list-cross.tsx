@@ -16,13 +16,13 @@ const SvgListCross = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="m15 18.5 5-5m0 5-5-5"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M21 6H3M21 10H3M11 14H3M11 18H3"
       />
     </svg>

@@ -23,7 +23,7 @@ const SvgWidget2 = (props: SVGProps<SVGSVGElement>) => {
         fillRule="evenodd"
         d="M12.732 17.366a4.634 4.634 0 1 1 9.269 0 4.634 4.634 0 0 1-9.269 0Z"
         clipRule="evenodd"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"
@@ -32,7 +32,7 @@ const SvgWidget2 = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M13 6.5c0-2.121 0-3.182.659-3.841C14.318 2 15.379 2 17.5 2c2.121 0 3.182 0 3.841.659C22 3.318 22 4.379 22 6.5c0 2.121 0 3.182-.659 3.841-.659.659-1.72.659-3.841.659-2.121 0-3.182 0-3.841-.659C13 9.682 13 8.621 13 6.5Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

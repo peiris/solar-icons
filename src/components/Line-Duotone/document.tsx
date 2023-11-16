@@ -14,7 +14,7 @@ const SvgDocument = (props: SVGProps<SVGSVGElement>) => {
     >
       <path
         stroke="#1C274D"
-        strokeWidth={1.5}
+        
         d="M4 6v13a3 3 0 0 0 3 3h10a3 3 0 0 0 3-3V9a3 3 0 0 0-3-3H4Zm0 0V5"
       />
       <path
@@ -24,7 +24,7 @@ const SvgDocument = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="#1C274D"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M8 12h8M8 15.5h5.5"
         opacity={0.5}
       />

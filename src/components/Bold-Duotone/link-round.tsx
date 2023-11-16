@@ -21,7 +21,7 @@ const SvgLinkRound = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M6.75 15c0-2.9 2.35-5.25 5.25-5.25h2a.75.75 0 0 0 0-1.5h-2a6.75 6.75 0 0 0 0 13.5h4a6.75 6.75 0 0 0 5.031-11.25.75.75 0 0 0-1.118 1A5.25 5.25 0 0 1 16 20.25h-4A5.25 5.25 0 0 1 6.75 15Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

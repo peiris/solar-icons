@@ -12,7 +12,7 @@ const SvgServerSquare = (props: SVGProps<SVGSVGElement>) => {
       height={24}
       {...props}
     >
-      <g fill="currentColor" opacity={0.5}>
+      <g fill="currentColor" opacity={0.3}>
         <path d="M14 21h-4c-3.771 0-5.657 0-6.828-1.172C2 18.657 2 16.771 2 13v-.25h20V13c0 3.771 0 5.657-1.172 6.828C19.657 21 17.771 21 14 21ZM10 3h4c3.771 0 5.657 0 6.828 1.172C22 5.343 22 7.229 22 11v.25H2V11c0-3.771 0-5.657 1.172-6.828C4.343 3 6.229 3 10 3Z" />
       </g>
       <path

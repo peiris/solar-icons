@@ -15,7 +15,7 @@ const SvgTrellis = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M19 22v-.5M5 22v-.5M12 21v-6"
         opacity={0.5}
       />
@@ -25,19 +25,19 @@ const SvgTrellis = (props: SVGProps<SVGSVGElement>) => {
       />
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M20.5 15V6.138c0-.388 0-.582-.018-.715-.123-.916-.636-1.478-1.537-1.683-.13-.03-.402-.055-.945-.104-1.002-.091-2.183-.44-3.231-.821C13.275 2.27 12.529 2 12 2c-.529 0-1.275.271-2.769.815-1.048.381-2.23.73-3.231.82-.543.05-.814.075-.945.105-.9.205-1.414.767-1.537 1.683-.018.133-.018.327-.018.715V15"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M15 18h2M7 18h2"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="m14.5 11-1 1m0-4-3 3m0-4-1 1"
         opacity={0.5}
       />

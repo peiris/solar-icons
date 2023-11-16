@@ -12,12 +12,12 @@ const SvgRoundDoubleAltArrowLeft = (props: SVGProps<SVGSVGElement>) => {
       height={24}
       {...props}
     >
-      <circle cx={12} cy={12} r={10} stroke="currentColor" strokeWidth={1.5} />
+      <circle cx={12} cy={12} r={10} stroke="currentColor"  />
       <path
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="m15.5 9-3 3 3 3M11.5 9l-3 3 3 3"
       />
     </svg>

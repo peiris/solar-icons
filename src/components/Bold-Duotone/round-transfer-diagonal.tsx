@@ -15,7 +15,7 @@ const SvgRoundTransferDiagonal = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M2 12c0 5.523 4.477 10 10 10a9.954 9.954 0 0 0 5.075-1.382l.007-.004c.435-.257.849-.546 1.238-.864A9.98 9.98 0 0 0 22 12c0-5.523-4.477-10-10-10a9.954 9.954 0 0 0-6.324 2.253A9.98 9.98 0 0 0 2 12Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

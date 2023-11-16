@@ -16,7 +16,7 @@ const SvgCallDropped = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="M15 4v1c0 1.886 0 2.828.586 3.414C16.172 9 17.114 9 19 9h1.5m0 0L18 7m2.5 2L18 11"
       />
       <path

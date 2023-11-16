@@ -15,7 +15,7 @@ const SvgFacemaskCircle = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M21.998 12.193 22 12c0-5.523-4.477-10-10-10S2 6.477 2 12c0 .13.002.258.007.386l4.98 1.81 2.877-1.15a5.75 5.75 0 0 1 4.272 0L17 14.192l4.998-1.999Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

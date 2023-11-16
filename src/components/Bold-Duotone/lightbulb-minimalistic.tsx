@@ -15,7 +15,7 @@ const SvgLightbulbMinimalistic = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="m7.41 13.828 1.105 1.053c.31.295.485.707.485 1.137 0 .647.518 1.172 1.157 1.172h3.686c.639 0 1.157-.525 1.157-1.172 0-.43.176-.842.485-1.137l1.104-1.053c1.542-1.48 2.402-3.425 2.41-5.446L19 8.297C19 4.842 15.866 2 12 2S5 4.842 5 8.297v.085c.009 2.021.87 3.966 2.41 5.446Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

@@ -21,14 +21,14 @@ const SvgDumbbellLargeMinimalistic = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="m11.457 15.269 3.812-3.812-3.104-3.104-3.812 3.812 3.104 3.104Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"
         fillRule="evenodd"
         d="M17.489 1.968a.75.75 0 0 1 1.06 0l3.105 3.104a.75.75 0 0 1-1.061 1.06l-3.104-3.104a.75.75 0 0 1 0-1.06ZM1.968 17.488a.75.75 0 0 1 1.06 0l3.104 3.104a.75.75 0 0 1-1.06 1.06l-3.104-3.104a.75.75 0 0 1 0-1.06Z"
         clipRule="evenodd"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

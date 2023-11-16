@@ -21,7 +21,7 @@ const SvgBone = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="m10.932 16.631 5.7-5.7-3.563-3.562-5.7 5.7 3.563 3.562Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

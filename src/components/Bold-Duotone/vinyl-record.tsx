@@ -15,7 +15,7 @@ const SvgVinylRecord = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M4.929 19.071c3.905 3.905 10.237 3.905 14.142 0 3.905-3.905 3.905-10.237 0-14.142-3.905-3.905-10.237-3.905-14.142 0-3.905 3.905-3.905 10.237 0 14.142Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

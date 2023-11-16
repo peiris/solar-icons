@@ -15,7 +15,7 @@ const SvgFullScreenCircle = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M6 9.997c.014-1.706.11-2.647.73-3.267.62-.62 1.56-.716 3.267-.73M6 14c.014 1.707.11 2.648.73 3.268.62.62 1.56.716 3.267.73M17.998 9.997c-.015-1.706-.11-2.647-.73-3.267-.62-.62-1.561-.716-3.268-.73M17.998 14c-.015 1.707-.11 2.648-.73 3.268-.62.62-1.561.716-3.268.73"
       />
       <circle
@@ -23,7 +23,7 @@ const SvgFullScreenCircle = (props: SVGProps<SVGSVGElement>) => {
         cy={12}
         r={10}
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         opacity={0.5}
       />
     </svg>

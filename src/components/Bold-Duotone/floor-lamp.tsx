@@ -19,7 +19,7 @@ const SvgFloorLamp = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M12 2a2 2 0 0 1 2 2h-4a2 2 0 0 1 2-2Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"
@@ -28,7 +28,7 @@ const SvgFloorLamp = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M2.439 7.786a2.033 2.033 0 0 1 2.872-.343L2.78 10.684a2.076 2.076 0 0 1-.34-2.898Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"
@@ -37,7 +37,7 @@ const SvgFloorLamp = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M21.561 7.786a2.033 2.033 0 0 0-2.872-.343l2.532 3.241a2.076 2.076 0 0 0 .34-2.898Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

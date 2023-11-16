@@ -18,12 +18,12 @@ const SvgFigmaFile = (props: SVGProps<SVGSVGElement>) => {
       />
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M13 2.5V5c0 2.357 0 3.536.732 4.268C14.464 10 15.643 10 18 10h4M5 11.5A1.5 1.5 0 0 1 6.5 10H8v3H6.5A1.5 1.5 0 0 1 5 11.5ZM5 14.5A1.5 1.5 0 0 1 6.5 13H8v3H6.5A1.5 1.5 0 0 1 5 14.5ZM5 17.5A1.5 1.5 0 0 1 6.5 16H8v1.5a1.5 1.5 0 0 1-3 0ZM8 10h1.5a1.5 1.5 0 0 1 0 3H8"
       />
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M11 14.5a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0Z"
       />
     </svg>

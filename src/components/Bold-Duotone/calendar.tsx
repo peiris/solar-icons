@@ -19,7 +19,7 @@ const SvgCalendar = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M22 14v-2c0-.839-.004-2.335-.017-3H2.01c-.013.665-.01 2.161-.01 3v2c0 3.771 0 5.657 1.172 6.828C4.343 22 6.228 22 10 22h4c3.77 0 5.656 0 6.828-1.172C22 19.658 22 17.772 22 14Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

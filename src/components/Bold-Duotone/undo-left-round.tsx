@@ -21,7 +21,7 @@ const SvgUndoLeftRound = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M5.81 6.25H15a5.75 5.75 0 0 1 0 11.5H8a.75.75 0 0 1 0-1.5h7a4.25 4.25 0 0 0 0-8.5H5.81L5.06 7l.75-.75Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

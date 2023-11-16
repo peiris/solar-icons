@@ -17,7 +17,7 @@ const SvgRewindBack = (props: SVGProps<SVGSVGElement>) => {
         fillRule="evenodd"
         d="M22 6.426v11.148c0 1.847-1.6 3.015-2.903 2.118L13 15.232V8.768l6.097-4.46C20.399 3.411 22 4.58 22 6.426Z"
         clipRule="evenodd"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

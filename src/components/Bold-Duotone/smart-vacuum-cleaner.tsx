@@ -15,7 +15,7 @@ const SvgSmartVacuumCleaner = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="m16.441 19.427-1 1.118.559.5a3.75 3.75 0 0 0 5.295-5.295l-.5-.56-1.118 1.001-3.236 3.236ZM7.559 19.427l1 1.118-.559.5a3.75 3.75 0 0 1-5.295-5.295l.5-.56 1.118 1.001 3.236 3.236Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

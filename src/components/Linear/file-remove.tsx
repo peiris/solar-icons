@@ -18,13 +18,13 @@ const SvgFileRemove = (props: SVGProps<SVGSVGElement>) => {
       />
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M13 2.5V5c0 2.357 0 3.536.732 4.268C14.464 10 15.643 10 18 10h4"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="m6 18 3-3m0 3-3-3"
       />
     </svg>

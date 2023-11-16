@@ -19,7 +19,7 @@ const SvgHeartLock = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M17 7c0-3.314-1.988-5-5-5S7 3.686 7 7M12 12v2.5"
       />
     </svg>

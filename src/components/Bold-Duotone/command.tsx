@@ -22,7 +22,7 @@ const SvgCommand = (props: SVGProps<SVGSVGElement>) => {
         d="M19 8h-3V5a3 3 0 1 1 3 3ZM8 8V5a3 3 0 1 0-3 3h3Z"
         clipRule="evenodd"
       />
-      <path fill="currentColor" d="M16 8H8v8h8V8Z" opacity={0.5} />
+      <path fill="currentColor" d="M16 8H8v8h8V8Z" opacity={0.3} />
     </svg>
   );
 };

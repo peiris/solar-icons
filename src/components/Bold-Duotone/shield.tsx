@@ -19,7 +19,7 @@ const SvgShield = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M14.101 21.527C16.761 20.365 21 17.63 21 11.991V11l-9-3v14c1.02 0 1.38-.158 2.101-.473ZM8.838 2.805 8.265 3C5.258 4.03 3.755 4.545 3.378 5.082 3 5.62 3 7.22 3 10.417V11l9-3V2c-.811 0-1.595.268-3.162.805Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

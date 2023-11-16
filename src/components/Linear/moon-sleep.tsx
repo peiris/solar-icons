@@ -16,7 +16,7 @@ const SvgMoonSleep = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="M13.5 8h3l-3 3h3M18 2h4l-4 4h4"
       />
       <path

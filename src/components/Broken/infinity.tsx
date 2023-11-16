@@ -15,7 +15,7 @@ const SvgInfinity = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M10 8A5 5 0 0 0 4 16M14 16a5 5 0 0 0 6-8M7 17c2.761 0 3.5-2 5-5s2.239-5 5-5"
       />
     </svg>

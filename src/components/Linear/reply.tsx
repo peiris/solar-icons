@@ -16,7 +16,7 @@ const SvgReply = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="m4.5 12 5-5m-5 5 5 5m-5-5h10c1.667 0 5 1 5 5"
       />
     </svg>

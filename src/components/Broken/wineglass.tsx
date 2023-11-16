@@ -19,7 +19,7 @@ const SvgWineglass = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M5.5 9S7.581 8.087 9 8c1.233-.076 2.116.462 3 1m6.5 0s-2.081.913-3.5 1"
       />
     </svg>

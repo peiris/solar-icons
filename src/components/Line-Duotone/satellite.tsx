@@ -14,7 +14,7 @@ const SvgSatellite = (props: SVGProps<SVGSVGElement>) => {
     >
       <path
         stroke="#8E93A6"
-        strokeWidth={1.5}
+        
         d="M20.47 10.918s-1.847-.615-4.31-3.078c-2.462-2.463-3.078-4.31-3.078-4.31"
       />
       <path
@@ -24,7 +24,7 @@ const SvgSatellite = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M13.082 10.918A5.224 5.224 0 1 0 20.47 3.53a5.224 5.224 0 0 0-7.388 7.388Z"
       />
     </svg>

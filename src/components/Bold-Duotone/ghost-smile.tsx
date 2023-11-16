@@ -15,7 +15,7 @@ const SvgGhostSmile = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M22 12v7.206a1.727 1.727 0 0 1-2.5 1.544 2.891 2.891 0 0 0-2.896.18 2.892 2.892 0 0 1-3.208 0l-.353-.234a1.881 1.881 0 0 0-2.086 0l-.353.235a2.892 2.892 0 0 1-3.208 0 2.891 2.891 0 0 0-2.897-.18A1.727 1.727 0 0 1 2 19.205V12C2 6.477 6.477 2 12 2s10 4.477 10 10Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

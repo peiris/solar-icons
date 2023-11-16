@@ -15,20 +15,20 @@ const SvgLinkMinimalistic2 = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="m14.163 18.488-.721.72a6.117 6.117 0 0 1-8.65-8.65l.72-.72"
         opacity={0.5}
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="m9.837 14.163 4.326-4.326"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="m9.837 5.512.721-.72a6.117 6.117 0 1 1 8.65 8.65l-.72.72"
         opacity={0.5}
       />

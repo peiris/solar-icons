@@ -19,7 +19,7 @@ const SvgVolleyball2 = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M3.339 6.998A9.954 9.954 0 0 1 7 3.34C11.783.578 17.899 2.217 20.66 7c2.762 4.784 1.123 10.9-3.66 13.661C12.217 23.421 6.101 21.783 3.34 17a9.954 9.954 0 0 1-1.342-5"
       />
     </svg>

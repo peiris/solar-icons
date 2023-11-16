@@ -15,7 +15,7 @@ const SvgSmartphoneRotateAngle = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M15 5H9"
         opacity={0.5}
       />
@@ -26,14 +26,14 @@ const SvgSmartphoneRotateAngle = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M20.96 15c.666.527 1.04 1.121 1.04 1.75 0 1.835-3.187 3.376-7.5 3.814"
         opacity={0.5}
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M5.502 17c-.002-.312-.002-.645-.002-1V8c0-2.828 0-4.243.879-5.121C7.257 2 8.672 2 11.5 2h1c2.828 0 4.243 0 5.121.879.879.878.879 2.293.879 5.121v8c0 .355 0 .688-.002 1"
       />
     </svg>

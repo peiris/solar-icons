@@ -17,7 +17,7 @@ const SvgLightning = (props: SVGProps<SVGSVGElement>) => {
         fillRule="evenodd"
         d="M12.5 19.25a.75.75 0 0 1 .75.75v2a.75.75 0 0 1-1.5 0v-2a.75.75 0 0 1 .75-.75Z"
         clipRule="evenodd"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"
@@ -38,7 +38,7 @@ const SvgLightning = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M8.5 5.5c0-1.404 0-2.107.337-2.611a2 2 0 0 1 .552-.552C9.893 2 10.596 2 12 2c1.405 0 2.107 0 2.611.337a2 2 0 0 1 .552.552c.337.504.337 1.207.337 2.611v2.55C14.898 8 14.148 8 13.2 8h-2.4c-.948 0-1.697 0-2.3.05V5.5Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

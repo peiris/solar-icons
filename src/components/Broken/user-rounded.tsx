@@ -12,11 +12,11 @@ const SvgUserRounded = (props: SVGProps<SVGSVGElement>) => {
       height={24}
       {...props}
     >
-      <circle cx={12} cy={6} r={4} stroke="currentColor" strokeWidth={1.5} />
+      <circle cx={12} cy={6} r={4} stroke="currentColor"  />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M15 20.615c-.91.247-1.926.385-3 .385-3.866 0-7-1.79-7-4s3.134-4 7-4 7 1.79 7 4c0 .345-.077.68-.22 1"
       />
     </svg>

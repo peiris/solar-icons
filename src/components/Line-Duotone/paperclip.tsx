@@ -15,7 +15,7 @@ const SvgPaperclip = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="m7.918 17.807 7.89-7.553a2.253 2.253 0 0 0 0-3.284M3 10.035l6.404-6.13c2.653-2.54 6.954-2.54 9.607 0"
       />
       <path

@@ -21,7 +21,7 @@ const SvgFaceScanCircle = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M12 19.583a7.583 7.583 0 1 0 0-15.166 7.583 7.583 0 0 0 0 15.166Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

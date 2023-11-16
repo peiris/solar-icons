@@ -24,7 +24,7 @@ const SvgRocket2 = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="m5.548 13-1.692 1.69a1.088 1.088 0 0 1-1.537 0 1.085 1.085 0 0 1 0-1.536L2.472 13m8.604 5.57-1.692 1.69a1.085 1.085 0 0 0 0 1.535 1.089 1.089 0 0 0 1.538 0l.154-.153m-4.14-4.483-1.71 1.672"
       />
       <path

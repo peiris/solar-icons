@@ -20,7 +20,7 @@ const SvgCheckRead = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="m20 7.563-4.286 4.5M11 16l.429.563 2.143-2.25"
       />
     </svg>

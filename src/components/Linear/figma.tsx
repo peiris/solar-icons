@@ -14,22 +14,22 @@ const SvgFigma = (props: SVGProps<SVGSVGElement>) => {
     >
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M12 2H8.667a3.333 3.333 0 1 0 0 6.667H12V2Z"
       />
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M12 8.667H8.667a3.333 3.333 0 0 0 0 6.666H12V8.666Z"
       />
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M18.667 12A3.333 3.333 0 1 1 12 12a3.333 3.333 0 0 1 6.667 0ZM8.667 15.334H12v3.333a3.333 3.333 0 1 1-3.333-3.334Z"
       />
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M12 2h3.333a3.333 3.333 0 1 1 0 6.667H12V2Z"
       />
     </svg>

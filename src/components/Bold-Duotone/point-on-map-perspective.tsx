@@ -15,7 +15,7 @@ const SvgPointOnMapPerspective = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M22 16c0-2.828 0-4.243-.879-5.121-.49-.49-1.146-.707-2.12-.803-.834-.025-2.8-.076-4-.076H8c-2.046 0-3.351 0-4.25.332l17.936 9.865C22 19.3 22 18.006 22 16Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

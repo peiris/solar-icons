@@ -14,12 +14,12 @@ const SvgTextBold = (props: SVGProps<SVGSVGElement>) => {
     >
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M5 4.609A2.609 2.609 0 0 1 7.609 2H12a5 5 0 0 1 0 10H5V4.609Z"
       />
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M5 12h9a5 5 0 0 1 0 10H7.059A2.059 2.059 0 0 1 5 19.941V12Z"
         opacity={0.5}
       />

@@ -25,7 +25,7 @@ const SvgRepeatOne = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="M10.5 11.5 12 10v4"
       />
     </svg>

@@ -22,7 +22,7 @@ const SvgAlignVerticalCenter = (props: SVGProps<SVGSVGElement>) => {
         fill="currentColor"
         d="M7.5 5c-.935 0-1.402 0-1.75.201a1.5 1.5 0 0 0-.549.549C5 6.098 5 6.565 5 7.5v9c0 .935 0 1.402.201 1.75a1.5 1.5 0 0 0 .549.549C6.098 19 6.565 19 7.5 19s1.402 0 1.75-.201a1.5 1.5 0 0 0 .549-.549c.201-.348.201-.815.201-1.75v-9c0-.935 0-1.402-.201-1.75a1.5 1.5 0 0 0-.549-.549C8.902 5 8.435 5 7.5 5Z"
       />
-      <g fill="currentColor" opacity={0.5}>
+      <g fill="currentColor" opacity={0.3}>
         <path d="M5 11.25H2a.75.75 0 0 0 0 1.5h3v-1.5ZM10 12.75h4v-1.5h-4v1.5ZM19 12.75h3a.75.75 0 0 0 0-1.5h-3v1.5Z" />
       </g>
     </svg>

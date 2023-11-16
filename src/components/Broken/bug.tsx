@@ -15,7 +15,7 @@ const SvgBug = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M14 21.71A7 7 0 0 1 5 15v-3.062A3.938 3.938 0 0 1 8.938 8h6.124A3.938 3.938 0 0 1 19 11.938V15a6.977 6.977 0 0 1-2 4.899"
       />
       <path
@@ -25,7 +25,7 @@ const SvgBug = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M19 14h3M5 14H2M14.5 3.5 17 2M9.5 3.5 7 2M20.5 20l-2-.8M20.5 8l-2 .8M3.5 20l2-.8M3.5 8l2 .8M12 21.5V15"
       />
     </svg>

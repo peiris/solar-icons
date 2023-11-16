@@ -15,11 +15,11 @@ const SvgForbiddenCircle = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="m18.5 5.5-13 13"
         opacity={0.5}
       />
-      <circle cx={12} cy={12} r={10} stroke="currentColor" strokeWidth={1.5} />
+      <circle cx={12} cy={12} r={10} stroke="currentColor"  />
     </svg>
   );
 };

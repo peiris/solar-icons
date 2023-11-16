@@ -14,7 +14,7 @@ const SvgPassport = (props: SVGProps<SVGSVGElement>) => {
     >
       <path
         stroke="#1C274D"
-        strokeWidth={1.5}
+        
         d="M4 6v13a3 3 0 0 0 3 3h10a3 3 0 0 0 3-3V9a3 3 0 0 0-3-3H4Zm0 0V5"
       />
       <circle
@@ -22,7 +22,7 @@ const SvgPassport = (props: SVGProps<SVGSVGElement>) => {
         cy={13}
         r={3}
         stroke="#1C274D"
-        strokeWidth={1.5}
+        
         opacity={0.5}
       />
       <path
@@ -32,7 +32,7 @@ const SvgPassport = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="#1C274D"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M10 19h4"
         opacity={0.5}
       />

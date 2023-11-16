@@ -17,7 +17,7 @@ const SvgPlaylistMinimalistic3 = (props: SVGProps<SVGSVGElement>) => {
         fillRule="evenodd"
         d="M2.25 4A.75.75 0 0 1 3 3.25h17a.75.75 0 0 1 0 1.5H3A.75.75 0 0 1 2.25 4Zm0 5A.75.75 0 0 1 3 8.25h9a.75.75 0 0 1 0 1.5H3A.75.75 0 0 1 2.25 9Zm0 5a.75.75 0 0 1 .75-.75h5a.75.75 0 0 1 0 1.5H3a.75.75 0 0 1-.75-.75Z"
         clipRule="evenodd"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

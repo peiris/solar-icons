@@ -19,7 +19,7 @@ const SvgNotebookMinimalistic = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="#1C274D"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M12 5.5v15"
       />
     </svg>

@@ -12,32 +12,32 @@ const SvgBlackHole3 = (props: SVGProps<SVGSVGElement>) => {
       height={24}
       {...props}
     >
-      <circle cx={12} cy={12} r={2} stroke="currentColor" strokeWidth={1.5} />
+      <circle cx={12} cy={12} r={2} stroke="currentColor"  />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M12 10c5 0 4.6 12-3 12"
         opacity={0.5}
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M12.312 14c-5 0-4.6-12 3-12"
         opacity={0.5}
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M10 12.312c0-5 12-4.6 12 3"
         opacity={0.5}
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M14 12c0 5-12 4.6-12-3"
         opacity={0.5}
       />

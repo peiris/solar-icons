@@ -15,7 +15,7 @@ const SvgCupMusic = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M12 16c-5.76 0-6.78-5.74-6.96-10.294-.05-1.266-.076-1.9.4-2.485.476-.586 1.045-.682 2.184-.874A26.374 26.374 0 0 1 12 2c1.783 0 3.253.157 4.377.347 1.138.192 1.708.288 2.183.874.476.586.451 1.219.4 2.485-.18 4.553-1.2 10.294-6.96 10.294Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"
@@ -30,7 +30,7 @@ const SvgCupMusic = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M15.458 21.25H8.543l.297-1.75a1 1 0 0 1 .98-.804h4.36a1 1 0 0 1 .981.804l.297 1.75Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

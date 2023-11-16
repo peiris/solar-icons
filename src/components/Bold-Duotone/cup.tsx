@@ -17,7 +17,7 @@ const SvgCup = (props: SVGProps<SVGSVGElement>) => {
         fillRule="evenodd"
         d="M1.25 21a.75.75 0 0 1 .75-.75h20a.75.75 0 0 1 0 1.5H2a.75.75 0 0 1-.75-.75Z"
         clipRule="evenodd"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"
@@ -28,7 +28,7 @@ const SvgCup = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M9 18h2c2.829 0 4.243 0 5.122-.879.768-.768.864-1.946.877-4.121H3.002c.012 2.175.109 3.353.877 4.121C4.758 18 6.172 18 9 18Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

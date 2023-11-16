@@ -15,20 +15,20 @@ const SvgListArrowDownMinimalistic = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M11 16H3M12 11H3"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="m15 14.5 2.5 2.5m0 0 2.5-2.5M17.5 17V9"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M3 6h10.5M20 6h-2.25"
       />
     </svg>

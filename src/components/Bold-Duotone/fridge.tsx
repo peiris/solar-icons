@@ -21,7 +21,7 @@ const SvgFridge = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M4 10c0-3.771 0-5.657 1.172-6.828C6.343 2 8.229 2 12 2c3.771 0 5.657 0 6.828 1.172C20 4.343 20 6.229 20 10v1.5H4V10Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

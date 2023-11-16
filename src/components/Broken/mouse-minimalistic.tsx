@@ -15,7 +15,7 @@ const SvgMouseMinimalistic = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M19 15a7 7 0 1 1-14 0V9a7 7 0 0 1 14 0v2M12 5v3"
       />
     </svg>

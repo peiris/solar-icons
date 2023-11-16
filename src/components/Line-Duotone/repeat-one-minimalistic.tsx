@@ -24,7 +24,7 @@ const SvgRepeatOneMinimalistic = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M16 12H8"
       />
     </svg>

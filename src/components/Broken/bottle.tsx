@@ -19,7 +19,7 @@ const SvgBottle = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="square"
-        strokeWidth={1.5}
+        
         d="m17.698 9.267-.802.268c-.87.29-1.829.119-2.545-.454a2.704 2.704 0 0 0-2.899-.307l-.726.363"
       />
     </svg>

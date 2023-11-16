@@ -17,13 +17,13 @@ const SvgSadCircle = (props: SVGProps<SVGSVGElement>) => {
         cy={12}
         r={10}
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         opacity={0.5}
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M9 17c.85-.63 1.885-1 3-1s2.15.37 3 1"
       />
       <ellipse cx={15} cy={10.5} fill="currentColor" rx={1} ry={1.5} />

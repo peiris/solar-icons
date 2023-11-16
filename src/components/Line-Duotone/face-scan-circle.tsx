@@ -15,7 +15,7 @@ const SvgFaceScanCircle = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M9 16c.85.63 1.885 1 3 1s2.15-.37 3-1"
       />
       <ellipse cx={15} cy={10.5} fill="currentColor" rx={1} ry={1.5} />
@@ -23,7 +23,7 @@ const SvgFaceScanCircle = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M2.2 10A10.012 10.012 0 0 1 10 2.2M2.2 14a10.012 10.012 0 0 0 7.8 7.8M21.8 10A10.012 10.012 0 0 0 14 2.2M21.8 14a10.012 10.012 0 0 1-7.8 7.8"
         opacity={0.5}
       />

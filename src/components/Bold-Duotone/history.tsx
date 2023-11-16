@@ -21,7 +21,7 @@ const SvgHistory = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M12 7.25a.75.75 0 0 1 .75.75v3.69l2.28 2.28a.75.75 0 1 1-1.06 1.06l-2.427-2.426a1 1 0 0 1-.293-.708V8a.75.75 0 0 1 .75-.75Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

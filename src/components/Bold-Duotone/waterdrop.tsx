@@ -15,7 +15,7 @@ const SvgWaterdrop = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M11.612 22h.777C17.145 22 21 18.057 21 13.193v-.265c0-4.611-2.729-8.765-6.903-10.507a5.434 5.434 0 0 0-4.194 0C5.73 4.163 3 8.317 3 12.928v.265C3 18.057 6.855 22 11.612 22Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

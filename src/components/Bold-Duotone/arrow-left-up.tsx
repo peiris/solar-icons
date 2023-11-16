@@ -21,7 +21,7 @@ const SvgArrowLeftUp = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M18.53 17.47a.75.75 0 1 1-1.06 1.06l-6.97-6.97 1.06-1.06 6.97 6.97Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

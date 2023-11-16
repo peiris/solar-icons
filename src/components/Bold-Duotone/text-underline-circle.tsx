@@ -15,7 +15,7 @@ const SvgTextUnderlineCircle = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

@@ -19,7 +19,7 @@ const SvgChatLine = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M8 9h8M8 12.5h5.5"
         opacity={0.5}
       />

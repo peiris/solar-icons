@@ -12,16 +12,16 @@ const SvgMenuDots = (props: SVGProps<SVGSVGElement>) => {
       height={24}
       {...props}
     >
-      <circle cx={5} cy={12} r={2} stroke="currentColor" strokeWidth={1.5} />
+      <circle cx={5} cy={12} r={2} stroke="currentColor"  />
       <circle
         cx={12}
         cy={12}
         r={2}
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         opacity={0.5}
       />
-      <circle cx={19} cy={12} r={2} stroke="currentColor" strokeWidth={1.5} />
+      <circle cx={19} cy={12} r={2} stroke="currentColor"  />
     </svg>
   );
 };

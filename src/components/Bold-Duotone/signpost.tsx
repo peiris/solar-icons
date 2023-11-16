@@ -17,7 +17,7 @@ const SvgSignpost = (props: SVGProps<SVGSVGElement>) => {
         fillRule="evenodd"
         d="M12.75 2a.75.75 0 0 0-1.5 0v1.5h1.5V2Zm-1.5 8.5v2h1.5v-2h-1.5Zm0 10.75V19.5h1.5v1.75H14a.75.75 0 0 1 0 1.5h-4a.75.75 0 0 1 0-1.5h1.25Z"
         clipRule="evenodd"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

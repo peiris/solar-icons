@@ -17,14 +17,14 @@ const SvgRoundArrowRight = (props: SVGProps<SVGSVGElement>) => {
         cy={12}
         r={10}
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         opacity={0.5}
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="M8 12h8m0 0-3-3m3 3-3 3"
       />
     </svg>

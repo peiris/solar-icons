@@ -21,7 +21,7 @@ const SvgWiFiRouter = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M3.651 4.378a.75.75 0 0 0-1.302.744l3.787 6.628H7.86l-.209-.372-4-7ZM20.35 4.378a.75.75 0 1 1 1.301.744l-3.787 6.628h-1.723l.208-.372 4-7Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

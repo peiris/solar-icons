@@ -16,7 +16,7 @@ const SvgArrowToTopRight = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="m12 4.5-5 5m5-5 5 5m-5-5V11m0 3.5c0 1.667 1 5 5 5"
       />
     </svg>

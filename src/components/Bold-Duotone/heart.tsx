@@ -17,7 +17,7 @@ const SvgHeart = (props: SVGProps<SVGSVGElement>) => {
         fillRule="evenodd"
         d="M8.106 18.247C5.298 16.083 2 13.542 2 9.137 2 4.274 7.5.825 12 5.501V20.5c-1 0-2-.77-3.038-1.59-.277-.218-.564-.438-.856-.663Z"
         clipRule="evenodd"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

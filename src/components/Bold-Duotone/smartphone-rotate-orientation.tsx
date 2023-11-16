@@ -15,7 +15,7 @@ const SvgSmartphoneRotateOrientation = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M20.43 21.152c.847-.847.847-2.21.847-4.936s0-4.09-.847-4.936c-.45-.451-1.681-.66-2.982-.756-.892-.066-1.338-.1-1.646.187-.308.286-.308.754-.308 1.69v7.642c0 .937 0 1.405.31 1.691.308.286.754.252 1.644.183 1.3-.1 2.531-.314 2.982-.765Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"
@@ -24,7 +24,7 @@ const SvgSmartphoneRotateOrientation = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M2 8.506c0-2.726 0-4.09.847-4.936.847-.847 2.21-.847 4.936-.847h.964c2.726 0 4.09 0 4.936.847.847.846.847 2.21.847 4.936v7.71c0 2.727 0 4.09-.847 4.937-.847.847-2.21.847-4.936.847h-.964c-2.726 0-4.09 0-4.936-.847C2 20.306 2 18.943 2 16.217V8.506Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

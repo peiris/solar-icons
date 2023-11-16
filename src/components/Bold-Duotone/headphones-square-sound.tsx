@@ -20,7 +20,7 @@ const SvgHeadphonesSquareSound = (props: SVGProps<SVGSVGElement>) => {
         fill="currentColor"
         fillRule="evenodd"
         clipRule="evenodd"
-        opacity={0.5}
+        opacity={0.3}
       >
         <path d="M12 5.75a.75.75 0 0 1 .75.75v5a.75.75 0 0 1-1.5 0v-5a.75.75 0 0 1 .75-.75ZM15 7.25a.75.75 0 0 1 .75.75v2a.75.75 0 0 1-1.5 0V8a.75.75 0 0 1 .75-.75ZM9 7.25a.75.75 0 0 1 .75.75v2a.75.75 0 0 1-1.5 0V8A.75.75 0 0 1 9 7.25Z" />
       </g>

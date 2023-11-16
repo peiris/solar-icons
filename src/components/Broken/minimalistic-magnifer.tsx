@@ -15,7 +15,7 @@ const SvgMinimalisticMagnifer = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="m20 20 2 2M6.75 3.27a9.5 9.5 0 1 1-3.48 3.48"
       />
     </svg>

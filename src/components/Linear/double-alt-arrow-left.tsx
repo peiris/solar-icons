@@ -16,14 +16,14 @@ const SvgDoubleAltArrowLeft = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="m13 19-6-7 6-7"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="m17 19-6-7 6-7"
       />
     </svg>

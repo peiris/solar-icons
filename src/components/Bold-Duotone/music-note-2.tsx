@@ -25,7 +25,7 @@ const SvgMusicNote2 = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M12.25 14.536V2c0 1.607.562 3.084 1.5 4.243V18a4.737 4.737 0 0 0-1.5-3.464Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

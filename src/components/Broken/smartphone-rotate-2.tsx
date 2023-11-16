@@ -20,7 +20,7 @@ const SvgSmartphoneRotate2 = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="M20.5 6.986 22 8c0-3.015-2.162-5.517-5-6M3.5 17.014 2 16c0 3.015 2.162 5.517 5 6"
       />
     </svg>

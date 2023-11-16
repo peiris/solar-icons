@@ -15,7 +15,7 @@ const SvgEmojiFunnySquare = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M8.913 15.934c1.258.315 2.685.315 4.122-.07 1.437-.385 2.673-1.099 3.605-2.001"
       />
       <ellipse
@@ -37,12 +37,12 @@ const SvgEmojiFunnySquare = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M20.796 9.643c1.111 4.147 1.667 6.22.724 7.853-.943 1.634-3.016 2.19-7.163 3.3-4.147 1.111-6.22 1.667-7.853.724-1.634-.943-2.19-3.016-3.3-7.163-1.112-4.147-1.667-6.22-.724-7.853.943-1.634 3.016-2.19 7.163-3.3 4.147-1.112 6.22-1.667 7.853-.724 1.009.582 1.606 1.595 2.177 3.26"
       />
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="m13 16 .478.974a1.5 1.5 0 1 0 2.693-1.322l-.46-.935"
       />
     </svg>

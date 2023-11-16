@@ -12,11 +12,11 @@ const SvgDonutBitten = (props: SVGProps<SVGSVGElement>) => {
       height={24}
       {...props}
     >
-      <circle cx={12} cy={12} r={3} stroke="currentColor" strokeWidth={1.5} />
+      <circle cx={12} cy={12} r={3} stroke="currentColor"  />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M14.5 7 16 5M19 7l1-1M12 5l-1-1M10.5 7l-1.366.366M7 5 6 4M6.792 9.144l-.585-1.288"
       />
       <path
@@ -25,13 +25,13 @@ const SvgDonutBitten = (props: SVGProps<SVGSVGElement>) => {
       />
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M2 13s2.2 2 4 2c1.212 0 2.606-.908 3.387-1.5M16 15.5c-.5-.5-1.529-.861-2-1.276"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="m16.65 8.977.066 1.412M20.678 10.085 19 11.563M5.665 12.641 6.5 11.5M3.683 10.35l-.079-1.412"
       />
     </svg>

@@ -21,7 +21,7 @@ const SvgTv = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M22 12v4c0 2.828 0 4.242-.879 5.121-.825.825-2.123.876-4.621.879H16V6h.5c2.498.003 3.796.053 4.621.878C22 7.758 22 9.171 22 12ZM13.416 6l2.153-2.512a.75.75 0 0 0-1.138-.976L12 5.348 9.57 2.512a.75.75 0 0 0-1.14.976L10.585 6h2.832Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

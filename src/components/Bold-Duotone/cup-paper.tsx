@@ -19,7 +19,7 @@ const SvgCupPaper = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M10.958 22h2.086c1.649 0 2.473 0 3.036-.487.564-.487.683-1.302.922-2.934L18.5 8.34h-13l1.5 10.24c.238 1.632.357 2.447.92 2.934C8.486 22 9.31 22 10.959 22Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path fill="currentColor" d="M6.77 17h10.463l.732-5H6.037l.732 5Z" />
     </svg>

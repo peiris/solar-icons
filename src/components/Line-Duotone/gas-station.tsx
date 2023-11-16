@@ -14,25 +14,25 @@ const SvgGasStation = (props: SVGProps<SVGSVGElement>) => {
     >
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M16 22V8c0-2.828 0-4.243-.879-5.121C14.243 2 12.828 2 10 2H9c-2.828 0-4.243 0-5.121.879C3 3.757 3 5.172 3 8v14"
       />
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M11 6H8c-.943 0-1.414 0-1.707.293C6 6.586 6 7.057 6 8c0 .943 0 1.414.293 1.707C6.586 10 7.057 10 8 10h3c.943 0 1.414 0 1.707-.293C13 9.414 13 8.943 13 8c0-.943 0-1.414-.293-1.707C12.414 6 11.943 6 11 6Z"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M7 17h5"
         opacity={0.5}
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M17 22H2"
       />
       <path

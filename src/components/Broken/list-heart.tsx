@@ -19,7 +19,7 @@ const SvgListHeart = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M10 14H3M10 18H3M3 6h10.5M20 6h-2.25M20 10H9.5M3 10h2.25"
       />
     </svg>

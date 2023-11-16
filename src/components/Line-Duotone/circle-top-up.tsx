@@ -16,13 +16,13 @@ const SvgCircleTopUp = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="m13 11 9-9m0 0h-5.344M22 2v5.344"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10"
         opacity={0.5}
       />

@@ -22,7 +22,7 @@ const SvgHome1 = (props: SVGProps<SVGSVGElement>) => {
         fill="currentColor"
         fillRule="evenodd"
         clipRule="evenodd"
-        opacity={0.5}
+        opacity={0.3}
       >
         <path d="M10.75 9.5a1.25 1.25 0 1 1 2.5 0 1.25 1.25 0 0 1-2.5 0Z" />
         <path d="M10.75 9.5a1.25 1.25 0 1 1 2.5 0 1.25 1.25 0 0 1-2.5 0Z" />
@@ -30,7 +30,7 @@ const SvgHome1 = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M12.05 13.25c.664 0 1.237 0 1.696.062.492.066.963.215 1.345.597s.531.853.597 1.345c.058.43.062.96.062 1.573v4.423h-7.5v-4.3c0-.664 0-1.237.062-1.696.066-.492.215-.963.597-1.345s.854-.531 1.345-.597c.459-.062 1.032-.062 1.697-.062h.098ZM16 3h2.5a.5.5 0 0 1 .5.5v4.14l-3.5-2.8V3.5A.5.5 0 0 1 16 3Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

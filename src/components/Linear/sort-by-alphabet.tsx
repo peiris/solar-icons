@@ -15,7 +15,7 @@ const SvgSortByAlphabet = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M13 7H3M10 12H3M8 17H3"
       />
       <path

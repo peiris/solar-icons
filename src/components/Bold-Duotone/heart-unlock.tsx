@@ -21,7 +21,7 @@ const SvgHeartUnlock = (props: SVGProps<SVGSVGElement>) => {
         fillRule="evenodd"
         d="M8.496 20.037C5.968 18.152 3 15.937 3 12.099c0-4.237 4.95-7.242 9-3.168 4.05-4.074 9-1.069 9 3.168 0 3.839-2.968 6.053-5.496 7.938-.262.196-.52.388-.77.578C13.8 21.328 12.9 22 12 22c-.9 0-1.8-.672-2.734-1.385-.25-.19-.508-.382-.77-.578Z"
         clipRule="evenodd"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

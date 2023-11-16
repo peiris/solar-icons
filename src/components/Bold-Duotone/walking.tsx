@@ -21,7 +21,7 @@ const SvgWalking = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M14 4.5a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0ZM9.416 16.876a.75.75 0 0 1 .208 1.04l-3 4.5a.75.75 0 1 1-1.248-.832l3-4.5a.75.75 0 0 1 1.04-.208Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

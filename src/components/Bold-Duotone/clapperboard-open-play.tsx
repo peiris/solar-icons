@@ -17,7 +17,7 @@ const SvgClapperboardOpenPlay = (props: SVGProps<SVGSVGElement>) => {
         fillRule="evenodd"
         d="M16 11H4v5c0 2.828 0 4.243.879 5.121C5.757 22 7.172 22 10 22h4c2.828 0 4.243 0 5.121-.879C20 20.243 20 18.828 20 16v-1c0-1.886 0-2.828-.586-3.414C18.828 11 17.886 11 16 11Z"
         clipRule="evenodd"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

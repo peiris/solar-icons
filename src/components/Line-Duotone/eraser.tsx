@@ -24,7 +24,7 @@ const SvgEraser = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M9 21h12"
         opacity={0.5}
       />

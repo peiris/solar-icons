@@ -15,7 +15,7 @@ const SvgPlanet2 = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M20 12a8 8 0 1 1-16 0 8 8 0 0 1 16 0Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

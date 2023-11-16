@@ -12,7 +12,7 @@ const SvgPostsCarouselHorizontal = (props: SVGProps<SVGSVGElement>) => {
       height={24}
       {...props}
     >
-      <g fill="currentColor" opacity={0.5}>
+      <g fill="currentColor" opacity={0.3}>
         <path d="M5.5 16V8a3 3 0 0 0-3-3 .5.5 0 0 0-.5.5v13a.5.5 0 0 0 .5.5 3 3 0 0 0 3-3ZM18.5 8v8a3 3 0 0 0 3 3 .5.5 0 0 0 .5-.5v-13a.5.5 0 0 0-.5-.5 3 3 0 0 0-3 3Z" />
       </g>
       <path

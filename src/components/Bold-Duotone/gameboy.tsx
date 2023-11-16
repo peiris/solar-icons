@@ -15,7 +15,7 @@ const SvgGameboy = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M4.318 20.536C5.636 22 7.758 22 12 22c4.243 0 6.364 0 7.682-1.465C21 19.072 21 16.714 21 12s0-7.071-1.318-8.536C18.364 2 16.242 2 12 2 7.757 2 5.636 2 4.318 3.464 3 4.93 3 7.286 3 12c0 4.714 0 7.071 1.318 8.535Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

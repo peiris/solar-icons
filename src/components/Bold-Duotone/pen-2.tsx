@@ -17,12 +17,12 @@ const SvgPen2 = (props: SVGProps<SVGSVGElement>) => {
         fillRule="evenodd"
         d="M3.25 22a.75.75 0 0 1 .75-.75h16a.75.75 0 0 1 0 1.5H4a.75.75 0 0 1-.75-.75Z"
         clipRule="evenodd"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"
         d="M19.08 7.372a3.147 3.147 0 0 0-4.45-4.45l-.71.71.031.089c.26.75.751 1.733 1.675 2.656a7.004 7.004 0 0 0 2.745 1.705l.71-.71Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

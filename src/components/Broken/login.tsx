@@ -15,14 +15,14 @@ const SvgLogin = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M20 12a8 8 0 0 0-8-8m0 16a7.985 7.985 0 0 0 6.245-3"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="M4 12h10m0 0-3-3m3 3-3 3"
       />
     </svg>

@@ -17,7 +17,7 @@ const SvgTuning3 = (props: SVGProps<SVGSVGElement>) => {
         cy={12}
         r={2}
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         transform="rotate(180 12 12)"
       />
       <circle
@@ -25,7 +25,7 @@ const SvgTuning3 = (props: SVGProps<SVGSVGElement>) => {
         cy={14}
         r={2}
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         transform="rotate(180 20 14)"
       />
       <circle
@@ -33,13 +33,13 @@ const SvgTuning3 = (props: SVGProps<SVGSVGElement>) => {
         cy={2}
         r={2}
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         transform="matrix(-1 0 0 1 6 8)"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M12 8V5M20 10V5M4 14v5M12 19v-3M20 19v-1M4 5v1"
       />
     </svg>

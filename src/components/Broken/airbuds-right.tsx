@@ -15,7 +15,7 @@ const SvgAirbudsRight = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M21 18.667v.833c0 .14 0 .209-.003.268a2.35 2.35 0 0 1-2.23 2.229C18.71 22 18.64 22 18.5 22c-.14 0-.209 0-.268-.003a2.35 2.35 0 0 1-2.229-2.23C16 19.71 16 19.64 16 19.5v-.833m5 0h-5m5 0L20.997 13M16 18.667V12a1 1 0 0 0-1-1 3 3 0 0 1-3-3V5.335A3.353 3.353 0 0 1 15.336 2H15.44A5.588 5.588 0 0 1 21 7.56V9"
       />
       <path
@@ -27,7 +27,7 @@ const SvgAirbudsRight = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M7.5 22A5.5 5.5 0 1 0 2 16.5M9 5.1A5.006 5.006 0 0 0 5.1 9"
       />
       <path

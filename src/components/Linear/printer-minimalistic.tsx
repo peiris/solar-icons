@@ -14,7 +14,7 @@ const SvgPrinterMinimalistic = (props: SVGProps<SVGSVGElement>) => {
     >
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M6 17.983c-1.553-.047-2.48-.22-3.121-.862C2 16.243 2 14.828 2 12c0-2.828 0-4.243.879-5.121C3.757 6 5.172 6 8 6h8c2.828 0 4.243 0 5.121.879C22 7.757 22 9.172 22 12c0 2.828 0 4.243-.879 5.121-.641.642-1.567.815-3.121.862"
       />
       <path
@@ -24,7 +24,7 @@ const SvgPrinterMinimalistic = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M19.5 12.443C17.873 11.713 15.412 11 12 11c-3.411 0-5.873.713-7.5 1.443"
       />
     </svg>

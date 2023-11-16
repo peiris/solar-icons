@@ -16,13 +16,13 @@ const SvgUndoLeftRound = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="M7 4 4 7l3 3"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M4 7h11a5 5 0 0 1 0 10H8"
         opacity={0.5}
       />

@@ -14,10 +14,10 @@ const SvgAdhesivePlaster = (props: SVGProps<SVGSVGElement>) => {
     >
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M3.213 9.071a4.142 4.142 0 0 1 5.858-5.858L20.787 14.93a4.142 4.142 0 0 1-5.858 5.858L3.213 9.07Z"
       />
-      <g stroke="currentColor" strokeWidth={1.5} opacity={0.5}>
+      <g stroke="currentColor"  opacity={0.5}>
         <path d="m12 17.858-2.929 2.929a4.142 4.142 0 0 1-5.858-5.858L6.143 12 12 17.858ZM12 6.142l2.929-2.929a4.142 4.142 0 0 1 5.858 5.858L17.857 12 12 6.142Z" />
       </g>
       <path

@@ -19,7 +19,7 @@ const SvgHealth = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M18.5 9h-2m0 0h-2m2 0V7m0 2v2"
       />
     </svg>

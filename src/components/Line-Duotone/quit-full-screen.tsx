@@ -15,26 +15,26 @@ const SvgQuitFullScreen = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M14 22c0-3.771 0-5.657 1.172-6.828C16.343 14 18.229 14 22 14"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M2 14c3.771 0 5.657 0 6.828 1.172C10 16.343 10 18.229 10 22"
         opacity={0.5}
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M2 10c3.771 0 5.657 0 6.828-1.172C10 7.657 10 5.771 10 2"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M22 10c-3.771 0-5.657 0-6.828-1.172C14 7.657 14 5.771 14 2"
         opacity={0.5}
       />

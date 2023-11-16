@@ -15,7 +15,7 @@ const SvgDoubleAltArrowUp = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M5 17.75a.75.75 0 0 1-.488-1.32l7-6a.75.75 0 0 1 .976 0l7 6A.75.75 0 0 1 19 17.75H5Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

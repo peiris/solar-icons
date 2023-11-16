@@ -17,7 +17,7 @@ const SvgUserSpeakRounded = (props: SVGProps<SVGSVGElement>) => {
         cx={10}
         cy={17.75}
         fill="currentColor"
-        opacity={0.5}
+        opacity={0.3}
         rx={7}
         ry={4}
       />

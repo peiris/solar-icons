@@ -22,7 +22,7 @@ const SvgStreetsMapPoint = (props: SVGProps<SVGSVGElement>) => {
         fill="currentColor"
         d="M10.5 9a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0Z"
       />
-      <g fill="currentColor" opacity={0.5}>
+      <g fill="currentColor" opacity={0.3}>
         <path d="M21.89 7.172C22 8.433 22 10.006 22 12c0 4.134 0 6.455-.987 7.951L15.06 14l6.828-6.828ZM19.952 21.012l-5.951-5.951-6.83 6.828c1.262.111 2.835.111 4.83.111 4.134 0 6.455 0 7.951-.988Z" />
       </g>
     </svg>

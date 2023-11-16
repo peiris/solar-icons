@@ -15,7 +15,7 @@ const SvgRoundArrowRightDown = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

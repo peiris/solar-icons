@@ -21,7 +21,7 @@ const SvgKickScooter = (props: SVGProps<SVGSVGElement>) => {
         fillRule="evenodd"
         d="M16.488 17.647c0-1.722 1.41-3.103 3.131-3.103 1.721 0 3.131 1.38 3.131 3.103 0 1.722-1.41 3.103-3.13 3.103-1.722 0-3.132-1.381-3.132-3.103Z"
         clipRule="evenodd"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

@@ -17,18 +17,18 @@ const SvgRunningRound = (props: SVGProps<SVGSVGElement>) => {
         cy={4.5}
         r={2.5}
         stroke="currentColor"
-        strokeWidth={1.5}
+        
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M14.4 22V21.04a7 7 0 0 0-2.837-5.554c-.04-.03-.06-.045-.075-.058a2 2 0 0 1-.136-3.022l.07-.064 1.04-.946c1.628-1.479 1.133-4.153-.916-4.95a2.962 2.962 0 0 0-2.271.05l-.522.23c-.54.237-.809.356-1.072.487-.438.217-.864.46-1.275.725-.247.16-.487.33-.967.672L4 9.636"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="m9 17-.26.311A7.473 7.473 0 0 1 3 20M16 12a8.246 8.246 0 0 0 4 0"
         opacity={0.5}
       />

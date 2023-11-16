@@ -17,7 +17,7 @@ const SvgRoute = (props: SVGProps<SVGSVGElement>) => {
         fillRule="evenodd"
         d="M12 2c-1.716 0-3.096 1.38-5.858 4.142C3.381 8.904 2 10.284 2 12c0 1.716 1.38 3.096 4.142 5.858C8.904 20.619 10.284 22 12 22c1.716 0 3.096-1.38 5.858-4.142C20.619 15.096 22 13.716 22 12c0-1.716-1.38-3.096-4.142-5.858C15.096 3.381 13.716 2 12 2Z"
         clipRule="evenodd"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

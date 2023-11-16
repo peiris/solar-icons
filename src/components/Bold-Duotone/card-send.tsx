@@ -15,7 +15,7 @@ const SvgCardSend = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M14 20h-4c-3.771 0-5.657 0-6.828-1.172C2 17.657 2 15.771 2 12c0-.442.002-1.608.004-2H22c.002.392 0 1.558 0 2 0 .66 0 1.261-.006 1.812l-1.403-1.403a2.25 2.25 0 0 0-3.182 0l-2 2a2.25 2.25 0 0 0 1.341 3.827v1.738C15.964 20 15.056 20 14 20Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

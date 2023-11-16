@@ -21,7 +21,7 @@ const SvgUserHandUp = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M8 13.75V18c0 1.886 0 2.828.586 3.414C9.172 22 10.114 22 12 22c1.886 0 2.828 0 3.414-.586C16 20.828 16 19.886 16 18v-4.25H8Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <circle cx={12} cy={6} r={4} fill="currentColor" />
     </svg>

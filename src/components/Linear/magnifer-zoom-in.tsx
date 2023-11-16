@@ -17,12 +17,12 @@ const SvgMagniferZoomIn = (props: SVGProps<SVGSVGElement>) => {
         cy={11.5}
         r={9.5}
         stroke="currentColor"
-        strokeWidth={1.5}
+        
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M18.5 18.5 22 22M9 11.5h2.5m0 0H14m-2.5 0V14m0-2.5V9"
       />
     </svg>

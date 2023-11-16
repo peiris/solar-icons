@@ -21,7 +21,7 @@ const SvgTextBold = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M4 13v6.941C4 21.631 5.37 23 7.059 23H14a6 6 0 0 0 2.102-11.621A5.979 5.979 0 0 1 12 12.999h2a4 4 0 0 1 0 8H7.059A1.059 1.059 0 0 1 6 19.942V13H4Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

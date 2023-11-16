@@ -12,11 +12,11 @@ const SvgUserPlus = (props: SVGProps<SVGSVGElement>) => {
       height={24}
       {...props}
     >
-      <circle cx={10} cy={6} r={4} stroke="currentColor" strokeWidth={1.5} />
+      <circle cx={10} cy={6} r={4} stroke="currentColor"  />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M21 10h-2m0 0h-2m2 0V8m0 2v2M17.998 18c.002-.164.002-.331.002-.5 0-2.485-3.582-4.5-8-4.5s-8 2.015-8 4.5S2 22 10 22c2.231 0 3.84-.157 5-.437"
       />
     </svg>

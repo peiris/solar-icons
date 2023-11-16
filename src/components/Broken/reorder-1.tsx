@@ -15,7 +15,7 @@ const SvgReorder1 = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M19 10h-8m-6 0h2M5 18h8m6 0h-2M19 14H5M19 6H5"
       />
     </svg>

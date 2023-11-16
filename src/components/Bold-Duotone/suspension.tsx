@@ -15,7 +15,7 @@ const SvgSuspension = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M12.75 17.75V6.25H16v-1.5H8v1.5h3.25v11.5H8v1.5h8v-1.5h-3.25Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

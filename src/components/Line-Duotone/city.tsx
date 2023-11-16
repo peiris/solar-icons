@@ -14,12 +14,12 @@ const SvgCity = (props: SVGProps<SVGSVGElement>) => {
     >
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M17 22v-6c0-1.886 0-2.828-.586-3.414C15.828 12 14.886 12 13 12h-2c-1.886 0-2.828 0-3.414.586C7 13.172 7 14.114 7 16v6"
       />
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M21 22V7.772c0-1.34 0-2.011-.356-2.525-.356-.514-.984-.75-2.24-1.22-2.455-.921-3.682-1.381-4.543-.785C13 3.84 13 5.15 13 7.772V12"
         opacity={0.5}
       />
@@ -31,13 +31,13 @@ const SvgCity = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M22 22H2"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M10 15h4M10 18h4"
         opacity={0.5}
       />

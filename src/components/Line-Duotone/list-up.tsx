@@ -16,13 +16,13 @@ const SvgListUp = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="m14 18 3.5-3 3.5 3"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M21 6H3M21 10H3M11 14H3M11 18H3"
         opacity={0.5}
       />

@@ -12,7 +12,7 @@ const SvgSyringe = (props: SVGProps<SVGSVGElement>) => {
       height={24}
       {...props}
     >
-      <g fill="currentColor" opacity={0.5}>
+      <g fill="currentColor" opacity={0.3}>
         <path d="M17.804 9.11 14.89 6.196c-.8-.8-1.2-1.2-1.654-1.365a2.182 2.182 0 0 0-1.492 0c-.455.165-.855.565-1.654 1.365l-4.543 4.543a5.455 5.455 0 0 0 7.714 7.714l4.543-4.543c.8-.8 1.2-1.2 1.365-1.654a2.182 2.182 0 0 0 0-1.492c-.165-.455-.565-.855-1.365-1.654Z" />
         <path
           fillRule="evenodd"

@@ -15,14 +15,14 @@ const SvgMusicNote2 = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M13 12V2"
       />
-      <circle cx={9} cy={18} r={4} stroke="currentColor" strokeWidth={1.5} />
+      <circle cx={9} cy={18} r={4} stroke="currentColor"  />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M19 8a6 6 0 0 1-6-6"
       />
     </svg>

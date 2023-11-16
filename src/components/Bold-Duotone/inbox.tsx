@@ -15,7 +15,7 @@ const SvgInbox = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M1 12c0-5.185 0-7.778 1.61-9.39C4.223 1 6.816 1 12 1c5.185 0 7.778 0 9.39 1.61C23 4.223 23 6.816 23 12c0 5.185 0 7.778-1.61 9.39C19.777 23 17.184 23 12 23c-5.185 0-7.778 0-9.39-1.61C1 19.777 1 17.184 1 12Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

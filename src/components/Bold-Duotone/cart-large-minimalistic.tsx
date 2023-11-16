@@ -21,7 +21,7 @@ const SvgCartLargeMinimalistic = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="m20.2 12.187.5-2.424.024-.123H5c0 2.941.063 3.912.93 4.826.866.914 2.26.914 5.05.914h5.302c1.561 0 2.342 0 2.893-.45.552-.45.71-1.214 1.025-2.743Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

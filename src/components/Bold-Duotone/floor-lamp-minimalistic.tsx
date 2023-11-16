@@ -25,7 +25,7 @@ const SvgFloorLampMinimalistic = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M12 2c1.657 0 3 .895 3 2H9c0-1.105 1.343-2 3-2Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"
@@ -34,7 +34,7 @@ const SvgFloorLampMinimalistic = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M12 8c.255 0 .505-.015.75-.045V21.25h-1.5v-3.347a3.39 3.39 0 0 0-1.295-2.636l-3.9-2.863a3.093 3.093 0 0 0 .856-1.233l3.94 2.893.012.009c.136.105.265.217.387.334V7.955c.245.03.495.045.75.045ZM2.439 8.786a2.033 2.033 0 0 1 2.872-.343L2.78 11.684a2.076 2.076 0 0 1-.34-2.898Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

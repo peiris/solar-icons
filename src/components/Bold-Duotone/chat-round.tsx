@@ -19,7 +19,7 @@ const SvgChatRound = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M21.826 13.866C21.94 13.26 22 12.637 22 12c0-5.523-4.477-10-10-10a9.96 9.96 0 0 0-4.544 1.09 9 9 0 0 0 14.37 10.776Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

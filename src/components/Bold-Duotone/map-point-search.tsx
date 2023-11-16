@@ -15,7 +15,7 @@ const SvgMapPointSearch = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M10.537 21.674a3.45 3.45 0 0 0 2.926 0C17.447 19.812 20 14.606 20 10.144 20 5.645 16.418 2 12 2s-8 3.646-8 8.143c0 4.462 2.553 9.67 6.537 11.531Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

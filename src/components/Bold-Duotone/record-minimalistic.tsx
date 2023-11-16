@@ -19,7 +19,7 @@ const SvgRecordMinimalistic = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M6 16h12a3.985 3.985 0 0 1-2.646-1H8.646c-.705.622-1.632 1-2.646 1Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

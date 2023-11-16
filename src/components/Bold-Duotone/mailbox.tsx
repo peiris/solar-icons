@@ -15,7 +15,7 @@ const SvgMailbox = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M2 11.25C2 8.35 4.015 6 6.5 6S11 8.35 11 11.25V20H4.233C3 20 2 18.834 2 17.395V11.25Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

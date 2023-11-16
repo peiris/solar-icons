@@ -14,7 +14,7 @@ const SvgTicket = (props: SVGProps<SVGSVGElement>) => {
     >
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M14 11a1 1 0 1 1 2 0v2a1 1 0 1 1-2 0v-2Z"
       />
       <path

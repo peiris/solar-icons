@@ -20,7 +20,7 @@ const SvgHashtagChat = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="M10 3 5 21M19 3l-1.806 6.5M22 9H4M2 16h7"
       />
     </svg>

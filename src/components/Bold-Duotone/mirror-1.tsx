@@ -19,7 +19,7 @@ const SvgMirror1 = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M19.485 17a9 9 0 1 0-14.969 0h2.656a2 2 0 0 1 1.414.586l.828.828a2 2 0 0 0 1.414.586h2.344a2 2 0 0 0 1.414-.586l.828-.828A2 2 0 0 1 16.828 17h2.657Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

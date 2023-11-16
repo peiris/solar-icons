@@ -17,7 +17,7 @@ const SvgPlusMinus = (props: SVGProps<SVGSVGElement>) => {
         fillRule="evenodd"
         d="M2 12c0 4.714 0 7.071 1.464 8.535l17.072-17.07C19.07 2 16.714 2 12 2 7.286 2 4.929 2 3.464 3.464 2 4.93 2 7.286 2 12Z"
         clipRule="evenodd"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="#1C274D"

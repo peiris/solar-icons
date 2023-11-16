@@ -19,7 +19,7 @@ const SvgPipette = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="m14.5 15.322-1.854-1.853m-.146 3.853-1.854-1.853"
         opacity={0.5}
       />

@@ -15,7 +15,7 @@ const SvgRoundSortVertical = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M22 12c0-5.523-4.477-10-10-10S2 6.477 2 12s4.477 10 10 10 10-4.477 10-10Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

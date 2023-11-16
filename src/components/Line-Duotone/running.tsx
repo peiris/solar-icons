@@ -17,13 +17,13 @@ const SvgRunning = (props: SVGProps<SVGSVGElement>) => {
         cy={4.5}
         r={2.5}
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         opacity={0.5}
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="m9 17-1 1.2c-.738.886-1.107 1.328-1.61 1.564C5.885 20 5.31 20 4.157 20H3"
       />
       <path
@@ -33,7 +33,7 @@ const SvgRunning = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="m14 8.5-2.22 2.776c-.837 1.045-1.255 1.568-1.322 2.137a2 2 0 0 0 .118.945c.204.536.737.94 1.805 1.749.813.616 1.219.923 1.495 1.326.157.23.281.48.37.744.154.462.154.972.154 1.992V22"
         opacity={0.5}
       />

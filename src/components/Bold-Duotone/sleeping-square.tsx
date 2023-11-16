@@ -15,7 +15,7 @@ const SvgSleepingSquare = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M2.464 21.536C3.93 23 6.286 23 11 23c4.714 0 7.071 0 8.535-1.465C21 20.072 21 17.714 21 13s0-7.071-1.465-8.536C18.072 3 15.715 3 11 3S3.929 3 2.464 4.464C1 5.93 1 8.286 1 13c0 4.714 0 7.071 1.464 8.535Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

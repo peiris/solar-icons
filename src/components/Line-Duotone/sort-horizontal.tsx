@@ -16,14 +16,14 @@ const SvgSortHorizontal = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="M18 8H6m0 0 4.125-4M6 8l4.125 4"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="M6 16h12m0 0-4.125-4M18 16l-4.125 4"
         opacity={0.5}
       />

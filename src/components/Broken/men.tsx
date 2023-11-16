@@ -15,7 +15,7 @@ const SvgMen = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M6 7.07A8 8 0 1 1 3.07 10"
       />
       <path

@@ -16,13 +16,13 @@ const SvgArrowToTopLeft = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="m17 9.5-5-5-5 5"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M12 4.5v10c0 1.667-1 5-5 5"
         opacity={0.5}
       />

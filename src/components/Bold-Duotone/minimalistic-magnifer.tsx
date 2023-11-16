@@ -15,7 +15,7 @@ const SvgMinimalisticMagnifer = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M20.313 11.157a9.157 9.157 0 1 1-18.313 0 9.157 9.157 0 0 1 18.313 0Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

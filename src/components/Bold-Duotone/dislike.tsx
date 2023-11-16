@@ -21,7 +21,7 @@ const SvgDislike = (props: SVGProps<SVGSVGElement>) => {
         fillRule="evenodd"
         d="M2.968 15.265a.75.75 0 0 0 .78-.685l.97-11.236a1.237 1.237 0 1 0-2.468-.107v11.279a.75.75 0 0 0 .718.75Z"
         clipRule="evenodd"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

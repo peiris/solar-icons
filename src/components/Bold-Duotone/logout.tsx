@@ -12,7 +12,7 @@ const SvgLogout = (props: SVGProps<SVGSVGElement>) => {
       height={24}
       {...props}
     >
-      <path fill="currentColor" d="M12 20a8 8 0 1 1 0-16v16Z" opacity={0.5} />
+      <path fill="currentColor" d="M12 20a8 8 0 1 1 0-16v16Z" opacity={0.3} />
       <path
         fill="currentColor"
         fillRule="evenodd"

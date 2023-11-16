@@ -15,7 +15,7 @@ const SvgList1 = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M20 7H4M15 12H4M9 17H4"
       />
     </svg>

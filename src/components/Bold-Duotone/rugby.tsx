@@ -15,7 +15,7 @@ const SvgRugby = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M13.457 2.11c-2.884.277-5.948 1.141-8.077 3.27-2.129 2.13-2.993 5.193-3.27 8.077l8.432 8.433c2.884-.278 5.948-1.142 8.077-3.271 2.129-2.129 2.993-5.193 3.27-8.077L13.458 2.11Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

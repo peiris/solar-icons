@@ -17,12 +17,12 @@ const SvgHikingMinimalistic = (props: SVGProps<SVGSVGElement>) => {
         cy={5.5}
         r={2.5}
         stroke="currentColor"
-        strokeWidth={1.5}
+        
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M9 16.5s-.426 1.62-1 2.5c-.603.925-2 2-2 2"
       />
       <path
@@ -32,7 +32,7 @@ const SvgHikingMinimalistic = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M19 14V7m0 14v-3"
       />
     </svg>

@@ -19,7 +19,7 @@ const SvgAltArrowUp = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M11.293 16H5.57c-.528 0-.771-.791-.37-1.205l2.406-2.482L11.293 16Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

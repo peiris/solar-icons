@@ -19,7 +19,7 @@ const SvgDatabase = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M4 12v6c0 2.21 3.582 4 8 4s8-1.79 8-4v-6c0 2.21-3.582 4-8 4s-8-1.79-8-4Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

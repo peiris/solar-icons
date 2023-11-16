@@ -15,7 +15,7 @@ const SvgDoubleAltArrowDown = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M5 6.25a.75.75 0 0 0-.488 1.32l7 6c.28.24.695.24.976 0l7-6A.75.75 0 0 0 19 6.25H5Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

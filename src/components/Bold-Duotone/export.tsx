@@ -12,7 +12,7 @@ const SvgExport = (props: SVGProps<SVGSVGElement>) => {
       height={24}
       {...props}
     >
-      <path fill="currentColor" d="M4 12a8 8 0 1 0 16 0H4Z" opacity={0.5} />
+      <path fill="currentColor" d="M4 12a8 8 0 1 0 16 0H4Z" opacity={0.3} />
       <path
         fill="currentColor"
         fillRule="evenodd"

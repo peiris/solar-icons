@@ -19,7 +19,7 @@ const SvgSuspensionBolt = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M8 17.75h8v1.5H8v-1.5ZM8 4.75h8v1.5H8v-1.5Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

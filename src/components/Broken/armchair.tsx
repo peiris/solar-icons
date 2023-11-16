@@ -18,13 +18,13 @@ const SvgArmchair = (props: SVGProps<SVGSVGElement>) => {
       />
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M6 10V8.154c0-2.3 0-3.451.482-4.308A3.647 3.647 0 0 1 7.8 2.495C8.635 2 9.757 2 12 2c2.243 0 3.365 0 4.2.495.547.324 1.002.79 1.318 1.351C18 4.703 18 5.853 18 8.154V10"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M19 22v-1M4 22v-1"
       />
     </svg>

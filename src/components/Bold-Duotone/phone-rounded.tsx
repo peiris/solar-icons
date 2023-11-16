@@ -21,7 +21,7 @@ const SvgPhoneRounded = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M11.025 12.976c-2.03-2.029-.91-3.148-.91-3.148l-4.279 4.278c.482.731 1.084 1.479 1.832 2.227.748.748 1.495 1.349 2.226 1.83l4.278-4.277s-1.119 1.119-3.148-.91Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

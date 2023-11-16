@@ -12,11 +12,11 @@ const SvgUserBlockRounded = (props: SVGProps<SVGSVGElement>) => {
       height={24}
       {...props}
     >
-      <circle cx={12} cy={6} r={4} stroke="currentColor" strokeWidth={1.5} />
-      <circle cx={17} cy={18} r={4} stroke="currentColor" strokeWidth={1.5} />
+      <circle cx={12} cy={6} r={4} stroke="currentColor"  />
+      <circle cx={17} cy={18} r={4} stroke="currentColor"  />
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="m20 15-6 6M14 20.834c-.634.108-1.305.166-2 .166-3.866 0-7-1.79-7-4s3.134-4 7-4c1.713 0 3.283.352 4.5.936"
       />
     </svg>

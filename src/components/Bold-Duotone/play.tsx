@@ -21,7 +21,7 @@ const SvgPlay = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="m8.597 21.615 12.812-6.968A2.988 2.988 0 0 0 23 12H4v6.967c0 2.31 2.534 3.769 4.597 2.648Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

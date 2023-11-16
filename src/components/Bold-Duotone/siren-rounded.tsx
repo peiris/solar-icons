@@ -15,7 +15,7 @@ const SvgSirenRounded = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M4 16v5.25h16V16a8 8 0 1 0-16 0Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

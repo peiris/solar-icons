@@ -12,7 +12,7 @@ const SvgPlugCircle = (props: SVGProps<SVGSVGElement>) => {
       height={24}
       {...props}
     >
-      <g fill="currentColor" opacity={0.5}>
+      <g fill="currentColor" opacity={0.3}>
         <path
           fillRule="evenodd"
           d="M12.75 22c5.172-.384 9.25-4.708 9.25-9.986V12c0-5.523-4.477-10-10-10S2 6.477 2 12v.014c0 5.278 4.078 9.602 9.25 9.986v-.028C6.08 21.59 2.004 17.274 2 12.007 2.004 6.48 6.48 2 12 2s9.996 4.48 10 10.007c-.004 5.267-4.08 9.582-9.25 9.965V22Z"

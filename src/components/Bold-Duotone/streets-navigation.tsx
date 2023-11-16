@@ -19,7 +19,7 @@ const SvgStreetsNavigation = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M2 9.5v.04c0 3.26.004 4.896.908 5.998.166.203.352.388.554.554.181.149.377.273.591.377C5.15 17 6.75 17 9.497 17H14.5l1.343-.003c.84-.005 1.55-.023 2.157-.076.944-.082 1.642-.25 2.204-.592l-6.656-5.23-10.587-7.7-.053.064C2 4.569 2 6.213 2 9.5Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

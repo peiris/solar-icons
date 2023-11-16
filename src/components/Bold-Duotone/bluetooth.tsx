@@ -21,7 +21,7 @@ const SvgBluetooth = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M10.25 10.56 6.43 7.886a.75.75 0 1 0-.86 1.228L9.692 12 5.57 14.886a.75.75 0 0 0 .86 1.229l3.82-2.674v-2.882Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

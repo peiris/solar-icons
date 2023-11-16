@@ -15,7 +15,7 @@ const SvgTextFieldFocus = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M3.172 18.828C4.343 20 6.229 20 10 20l5.75-.006c2.636-.027 4.104-.191 5.078-1.166C22 17.658 22 15.771 22 12c0-3.771 0-5.657-1.172-6.828-.974-.975-2.454-1.144-5.09-1.172H10C6.229 4 4.343 4 3.172 5.172 2 6.343 2 8.229 2 12c0 3.771 0 5.657 1.172 6.828Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

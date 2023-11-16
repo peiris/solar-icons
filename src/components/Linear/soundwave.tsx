@@ -15,7 +15,7 @@ const SvgSoundwave = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M12 4v16M16 7v10M8 7v10M20 11v2M4 11v2"
       />
     </svg>

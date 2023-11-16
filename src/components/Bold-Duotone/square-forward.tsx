@@ -15,7 +15,7 @@ const SvgSquareForward = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M1 13.529c0-4.667 0-7 1.45-8.45 1.45-1.45 3.783-1.45 8.45-1.45s7 0 8.45 1.45c1.45 1.45 1.45 3.783 1.45 8.45s0 7-1.45 8.45c-1.45 1.45-3.783 1.45-8.45 1.45s-7 0-8.45-1.45C1 20.53 1 18.196 1 13.53Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

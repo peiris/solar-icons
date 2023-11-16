@@ -15,7 +15,7 @@ const SvgDropperMinimalistic2 = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M19 15.883V8c0-1.886 0-2.828-.586-3.414C17.828 4 16.886 4 15 4H9c-1.886 0-2.828 0-3.414.586C5 5.172 5 6.114 5 8v7.883c0 .76.32 1.487.88 2.001a9.053 9.053 0 0 0 12.24 0c.56-.514.88-1.24.88-2Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

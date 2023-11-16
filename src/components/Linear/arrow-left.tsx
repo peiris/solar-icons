@@ -16,7 +16,7 @@ const SvgArrowLeft = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="M20 12H4m0 0 6-6m-6 6 6 6"
       />
     </svg>

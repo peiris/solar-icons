@@ -21,7 +21,7 @@ const SvgArchive = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M2 5c0-.943 0-1.414.293-1.707C2.586 3 3.057 3 4 3h16c.943 0 1.414 0 1.707.293C22 3.586 22 4.057 22 5c0 .943 0 1.414-.293 1.707C21.414 7 20.943 7 20 7H4c-.943 0-1.414 0-1.707-.293C2 6.414 2 5.943 2 5Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

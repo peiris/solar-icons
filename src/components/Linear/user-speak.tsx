@@ -12,16 +12,16 @@ const SvgUserSpeak = (props: SVGProps<SVGSVGElement>) => {
       height={24}
       {...props}
     >
-      <circle cx={10} cy={6} r={4} stroke="currentColor" strokeWidth={1.5} />
+      <circle cx={10} cy={6} r={4} stroke="currentColor"  />
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M18 17.5c0 2.485 0 4.5-8 4.5s-8-2.015-8-4.5S5.582 13 10 13s8 2.015 8 4.5Z"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M19 2s2 1.2 2 4-2 4-2 4M17 4s1 .6 1 2-1 2-1 2"
       />
     </svg>

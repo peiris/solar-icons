@@ -17,14 +17,14 @@ const SvgRoundTransferHorizontal = (props: SVGProps<SVGSVGElement>) => {
         cy={12}
         r={10}
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         opacity={0.5}
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="M17 10H7l3.438-3M7 14h10l-3.437 3"
       />
     </svg>

@@ -14,14 +14,14 @@ const SvgCosmetic = (props: SVGProps<SVGSVGElement>) => {
     >
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M11 10.5a5.5 5.5 0 1 1 11 0 5.5 5.5 0 0 1-11 0Z"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="M16.5 20v-4m0 4h3m-3 0h-3"
       />
       <path
@@ -30,7 +30,7 @@ const SvgCosmetic = (props: SVGProps<SVGSVGElement>) => {
       />
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M3 11h4V5.618a1 1 0 0 0-1.447-.894l-2 1A1 1 0 0 0 3 6.618V11Z"
       />
     </svg>

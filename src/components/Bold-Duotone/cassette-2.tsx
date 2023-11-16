@@ -15,9 +15,9 @@ const SvgCassette2 = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M13.228 8h-2.456c-1.34 0-2.011 0-2.525-.356-.514-.356-.75-.984-1.22-2.24L6.5 4h11l-.527 1.404c-.47 1.256-.706 1.884-1.22 2.24C15.24 8 14.57 8 13.228 8Z"
-        opacity={0.5}
+        opacity={0.3}
       />
-      <g fill="currentColor" opacity={0.5}>
+      <g fill="currentColor" opacity={0.3}>
         <path d="M13.5 13.75a2.25 2.25 0 1 0 4.5 0 2.25 2.25 0 0 0-4.5 0ZM6 13.75a2.25 2.25 0 1 0 4.5 0 2.25 2.25 0 0 0-4.5 0Z" />
       </g>
       <path

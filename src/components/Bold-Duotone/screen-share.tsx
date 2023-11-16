@@ -15,7 +15,7 @@ const SvgScreenShare = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M8.141 4.5C8 5.343 8 6.462 8 8v8c0 1.538 0 2.657.141 3.5H8c-2.357 0-3.536 0-4.268-.732C3 18.035 3 16.857 3 14.5v-5c0-2.357 0-3.536.732-4.268C4.464 4.5 5.643 4.5 8 4.5h.141Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

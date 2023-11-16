@@ -16,7 +16,7 @@ const SvgUnread = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="m7 12.9 3.143 3.6 1.964-2.25M18 7.5 14.071 12"
       />
     </svg>

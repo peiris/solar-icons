@@ -12,12 +12,12 @@ const SvgUserRounded = (props: SVGProps<SVGSVGElement>) => {
       height={24}
       {...props}
     >
-      <circle cx={12} cy={6} r={4} stroke="currentColor" strokeWidth={1.5} />
+      <circle cx={12} cy={6} r={4} stroke="currentColor"  />
       <ellipse
         cx={12}
         cy={17}
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         rx={7}
         ry={4}
       />

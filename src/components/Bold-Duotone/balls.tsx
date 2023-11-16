@@ -18,7 +18,7 @@ const SvgBalls = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M16.02 8.076c-2.019.194-4.164.8-5.654 2.29-1.49 1.49-2.096 3.635-2.29 5.653l5.903 5.904c2.019-.195 4.164-.8 5.654-2.29 1.49-1.49 2.095-3.635 2.29-5.654l-5.904-5.903Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

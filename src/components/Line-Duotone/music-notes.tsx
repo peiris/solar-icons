@@ -14,13 +14,13 @@ const SvgMusicNotes = (props: SVGProps<SVGSVGElement>) => {
     >
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M12 19.5a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0ZM22 17.5a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0Z"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="m22 8-10 4"
       />
       <path
@@ -31,7 +31,7 @@ const SvgMusicNotes = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="M7 11V2c0 2.071 1.757 3 3 3m-3 5.5a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0Z"
         opacity={0.5}
       />

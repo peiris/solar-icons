@@ -15,23 +15,23 @@ const SvgDatabase = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M4 18V6M20 12v6"
       />
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M12 10c4.418 0 8-1.79 8-4s-3.582-4-8-4-8 1.79-8 4 3.582 4 8 4Z"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M20 12c0 2.21-3.582 4-8 4s-8-1.79-8-4"
       />
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M20 18c0 2.21-3.582 4-8 4s-8-1.79-8-4"
       />
     </svg>

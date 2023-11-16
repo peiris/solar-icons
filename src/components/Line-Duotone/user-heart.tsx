@@ -12,10 +12,10 @@ const SvgUserHeart = (props: SVGProps<SVGSVGElement>) => {
       height={24}
       {...props}
     >
-      <circle cx={10} cy={6} r={4} stroke="currentColor" strokeWidth={1.5} />
+      <circle cx={10} cy={6} r={4} stroke="currentColor"  />
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M18 17.5c0 2.485 0 4.5-8 4.5s-8-2.015-8-4.5S5.582 13 10 13s8 2.015 8 4.5Z"
         opacity={0.5}
       />

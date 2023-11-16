@@ -25,7 +25,7 @@ const SvgTestTubeMinimalistic = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M14.09 4.098 3.187 15.048a4.085 4.085 0 0 0 0 5.76 4.042 4.042 0 0 0 5.734 0L19.824 9.856l-5.734-5.76Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

@@ -15,7 +15,7 @@ const SvgSort = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M22 7H9M2 7h3M19 12h-3M5 12h7M16 17H8"
       />
     </svg>

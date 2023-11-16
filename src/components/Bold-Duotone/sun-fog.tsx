@@ -21,15 +21,15 @@ const SvgSunFog = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M4.25 19a.75.75 0 0 1 .75-.75h14a.75.75 0 0 1 0 1.5H5a.75.75 0 0 1-.75-.75Z"
-        opacity={0.5}
+        opacity={0.3}
       />
-      <g fill="currentColor" opacity={0.5}>
+      <g fill="currentColor" opacity={0.3}>
         <path d="M4.398 4.398a.75.75 0 0 1 1.061 0l.393.393a.75.75 0 0 1-1.06 1.06l-.394-.392a.75.75 0 0 1 0-1.06ZM19.6 4.399a.75.75 0 0 1 0 1.06l-.392.393a.75.75 0 0 1-1.06-1.06l.392-.393a.75.75 0 0 1 1.06 0Z" />
       </g>
       <path
         fill="currentColor"
         d="M5.25 12c0 1.178.302 2.286.833 3.25h11.834A6.75 6.75 0 1 0 5.25 12Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

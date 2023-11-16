@@ -16,7 +16,7 @@ const SvgTransferVertical = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="M10 4v16l-6-5.5M14 20V4l6 5.5"
       />
     </svg>

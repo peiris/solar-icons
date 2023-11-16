@@ -17,14 +17,14 @@ const SvgConfoundedCircle = (props: SVGProps<SVGSVGElement>) => {
         cy={12}
         r={10}
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         opacity={0.5}
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="m8 12 2-1.5L8 9M16 12l-2-1.5L16 9M15 16l-1-1-1 1-1-1-1 1-1-1-1 1"
       />
     </svg>

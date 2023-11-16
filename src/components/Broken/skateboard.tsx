@@ -15,11 +15,11 @@ const SvgSkateboard = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="m2 7 .813 1.219A4 4 0 0 0 6.14 10H12m10-3-.812 1.219A4 4 0 0 1 17.859 10H16"
       />
-      <circle cx={7} cy={15} r={2} stroke="currentColor" strokeWidth={1.5} />
-      <circle cx={17} cy={15} r={2} stroke="currentColor" strokeWidth={1.5} />
+      <circle cx={7} cy={15} r={2} stroke="currentColor"  />
+      <circle cx={17} cy={15} r={2} stroke="currentColor"  />
     </svg>
   );
 };

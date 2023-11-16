@@ -15,7 +15,7 @@ const SvgFolderPathConnect = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M2 20a.75.75 0 0 1 .75-.75h8.5V15h1.5v4.25h8.5a.75.75 0 0 1 0 1.5H2.75A.75.75 0 0 1 2 20Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

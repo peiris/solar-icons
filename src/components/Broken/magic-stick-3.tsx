@@ -15,7 +15,7 @@ const SvgMagicStick3 = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M13 8.922 7.922 3.845a2.883 2.883 0 1 0-4.077 4.077l12.233 12.234a2.884 2.884 0 0 0 4.078-4.078L17.078 13M6 10l4-4"
       />
       <path

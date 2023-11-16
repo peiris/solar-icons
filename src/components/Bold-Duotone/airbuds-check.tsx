@@ -15,7 +15,7 @@ const SvgAirbudsCheck = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M22 18a4 4 0 1 1-8 0 4 4 0 0 1 8 0Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"
@@ -30,7 +30,7 @@ const SvgAirbudsCheck = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M2 9.3V7.187c0-.174 0-.26.004-.334.08-1.541 1.385-2.774 3.017-2.85C5.098 4 5.19 4 5.375 4c.307 0 .46 0 .59.006 2.72.126 4.895 2.18 5.029 4.749.006.122.006.267.006.557V19.75C11 20.993 9.933 22 8.618 22c-1.316 0-2.383-1.007-2.383-2.25V13.3c0-.552-.474-1-1.059-1C3.422 12.3 2 10.957 2 9.3Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

@@ -17,7 +17,7 @@ const SvgSliderMinimalisticHorizontal = (props: SVGProps<SVGSVGElement>) => {
         fillRule="evenodd"
         d="M20.25 2.77a.76.76 0 0 1-.75.768h-15a.76.76 0 0 1-.75-.769A.76.76 0 0 1 4.5 2h15a.76.76 0 0 1 .75.77Zm0 18.46a.76.76 0 0 1-.75.77h-15a.76.76 0 0 1-.75-.77.76.76 0 0 1 .75-.768h15a.76.76 0 0 1 .75.769Z"
         clipRule="evenodd"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

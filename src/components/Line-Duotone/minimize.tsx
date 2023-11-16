@@ -16,7 +16,7 @@ const SvgMinimize = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="m2 22 7-7m0 0H3.143M9 15v5.857"
         opacity={0.6}
       />
@@ -24,7 +24,7 @@ const SvgMinimize = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="m22 2-7 7m0 0h5.857M15 9V3.143"
       />
     </svg>

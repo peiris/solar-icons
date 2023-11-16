@@ -15,7 +15,7 @@ const SvgUmbrella = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M21.524 12H2.476A.476.476 0 0 1 2 11.524 9.524 9.524 0 0 1 11.524 2h.952A9.524 9.524 0 0 1 22 11.524a.476.476 0 0 1-.476.476Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

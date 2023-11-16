@@ -14,7 +14,7 @@ const SvgWiFiRouterRound = (props: SVGProps<SVGSVGElement>) => {
     >
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M2 15a5 5 0 0 1 5-5h10a5 5 0 0 1 0 10H7a5 5 0 0 1-5-5Z"
       />
       <path
@@ -23,19 +23,19 @@ const SvgWiFiRouterRound = (props: SVGProps<SVGSVGElement>) => {
       />
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M8.5 15a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0Z"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M12 15h6.5M21.583 5.397a5.502 5.502 0 0 0-10.167 0"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M19.38 6.658a3.001 3.001 0 0 0-5.76 0"
       />
       <path fill="currentColor" d="M17.5 7a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z" />

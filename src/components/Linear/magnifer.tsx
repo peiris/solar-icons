@@ -17,12 +17,12 @@ const SvgMagnifer = (props: SVGProps<SVGSVGElement>) => {
         cy={11.5}
         r={9.5}
         stroke="currentColor"
-        strokeWidth={1.5}
+        
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M18.5 18.5 22 22"
       />
     </svg>

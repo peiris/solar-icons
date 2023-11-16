@@ -15,14 +15,14 @@ const SvgImport = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M4 12a8 8 0 1 0 16 0"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="M12 4v10m0 0 3-3m-3 3-3-3"
       />
     </svg>

@@ -15,7 +15,7 @@ const SvgLetter = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M14.2 3H9.8C5.652 3 3.577 3 2.289 4.318 1 5.636 1 7.758 1 12c0 4.243 0 6.364 1.289 7.682C3.577 21 5.652 21 9.8 21h4.4c4.148 0 6.223 0 7.511-1.318C23 18.364 23 16.242 23 12c0-4.243 0-6.364-1.289-7.682C20.423 3 18.348 3 14.2 3Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

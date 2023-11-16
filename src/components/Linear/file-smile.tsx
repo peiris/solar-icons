@@ -18,7 +18,7 @@ const SvgFileSmile = (props: SVGProps<SVGSVGElement>) => {
       />
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M13 2.5V5c0 2.357 0 3.536.732 4.268C14.464 10 15.643 10 18 10h4"
       />
       <ellipse cx={17} cy={14.5} fill="currentColor" rx={1} ry={1.5} />
@@ -26,7 +26,7 @@ const SvgFileSmile = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="M9 17.5a5.408 5.408 0 0 0 6 0"
       />
       <ellipse cx={7} cy={14.5} fill="currentColor" rx={1} ry={1.5} />

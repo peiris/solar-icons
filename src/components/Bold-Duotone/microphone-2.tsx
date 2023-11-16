@@ -21,7 +21,7 @@ const SvgMicrophone2 = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M9.75 7.75A.75.75 0 0 0 9 7H6.298a5.751 5.751 0 0 1 11.404 0H13.5a.75.75 0 0 0 0 1.5h4.25V10H13.5a.75.75 0 0 0 0 1.5H17.701a5.751 5.751 0 0 1-11.403 0H9A.75.75 0 0 0 9 10H6.25V8.5H9a.75.75 0 0 0 .75-.75Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

@@ -15,7 +15,7 @@ const SvgLadle = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M16 17c3.054 0 6-1.12 6-2.5S19.054 12 16 12s-6.632 1.12-6.632 2.5S12.946 17 16 17Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

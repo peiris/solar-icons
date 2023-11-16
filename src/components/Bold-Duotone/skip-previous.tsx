@@ -15,7 +15,7 @@ const SvgSkipPrevious = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M2 5a.75.75 0 0 1 1.5 0v14A.75.75 0 0 1 2 19V5Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

@@ -15,7 +15,7 @@ const SvgLaptop = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M4.938 3.586c-.585.586-.585 1.528-.585 3.414v7h15.294V7c0-1.886 0-2.828-.586-3.414C18.475 3 17.532 3 15.647 3H8.353c-1.886 0-2.829 0-3.415.586Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

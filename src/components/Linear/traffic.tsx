@@ -15,7 +15,7 @@ const SvgTraffic = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M22 12A10 10 0 1 1 12 2M14.5 2.315c3.514.904 6.28 3.67 7.185 7.185"
       />
     </svg>

@@ -15,7 +15,7 @@ const SvgWineglass = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M5 4.895C5 3.848 5.848 3 6.895 3h10.21C18.152 3 19 3.848 19 4.895V8A7 7 0 1 1 5 8V4.895Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"
@@ -26,7 +26,7 @@ const SvgWineglass = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M12.75 14.96a7.087 7.087 0 0 1-1.5 0v5.29h1.5v-5.29Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

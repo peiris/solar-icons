@@ -18,7 +18,7 @@ const SvgWomen = (props: SVGProps<SVGSVGElement>) => {
       />
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M19 9A7 7 0 1 1 5 9a7 7 0 0 1 14 0Z"
       />
     </svg>

@@ -12,10 +12,10 @@ const SvgUsersGroupRounded = (props: SVGProps<SVGSVGElement>) => {
       height={24}
       {...props}
     >
-      <circle cx={9} cy={6} r={4} stroke="currentColor" strokeWidth={1.5} />
+      <circle cx={9} cy={6} r={4} stroke="currentColor"  />
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M12.5 4.341a3 3 0 1 1 0 3.318"
         opacity={0.5}
       />
@@ -23,14 +23,14 @@ const SvgUsersGroupRounded = (props: SVGProps<SVGSVGElement>) => {
         cx={9}
         cy={17}
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         rx={7}
         ry={4}
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M18 14c1.754.385 3 1.359 3 2.5 0 1.03-1.014 1.923-2.5 2.37"
         opacity={0.5}
       />

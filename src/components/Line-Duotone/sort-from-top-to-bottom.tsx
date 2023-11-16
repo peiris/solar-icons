@@ -15,20 +15,20 @@ const SvgSortFromTopToBottom = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M4 16h9"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M6 11h7"
         opacity={0.7}
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M8 6h5"
         opacity={0.3}
       />
@@ -36,7 +36,7 @@ const SvgSortFromTopToBottom = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="M17 4v16l3-4"
       />
     </svg>

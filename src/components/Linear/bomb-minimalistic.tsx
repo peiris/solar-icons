@@ -17,12 +17,12 @@ const SvgBombMinimalistic = (props: SVGProps<SVGSVGElement>) => {
         cy={14.5}
         r={7.5}
         stroke="currentColor"
-        strokeWidth={1.5}
+        
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="m17 7-2 2M19.5 7.5l1 .5M16 3.5l.5 1M19 5l1-1"
       />
     </svg>

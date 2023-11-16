@@ -15,7 +15,7 @@ const SvgVolumeKnob = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M17 12a5 5 0 1 0-5 5M12 7v4"
       />
       <path

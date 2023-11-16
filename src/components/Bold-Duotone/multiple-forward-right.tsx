@@ -21,7 +21,7 @@ const SvgMultipleForwardRight = (props: SVGProps<SVGSVGElement>) => {
         fillRule="evenodd"
         d="M14.99 3.99a.75.75 0 0 1 1.06-.04l5.216 4.844a4.647 4.647 0 0 1-.15 6.944l-5.09 4.333a.75.75 0 1 1-.973-1.142l5.09-4.333a3.147 3.147 0 0 0 .102-4.703L15.029 5.05a.75.75 0 0 1-.04-1.06Z"
         clipRule="evenodd"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

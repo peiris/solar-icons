@@ -19,7 +19,7 @@ const SvgBed = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M10.998 4h2c3.77 0 5.656 0 6.828 1.172 1.023 1.022 1.153 2.588 1.17 5.477v1.617L19.25 12H4.75l-1.748.267H3V10.65c.017-2.889.147-4.455 1.17-5.477C5.34 4 7.225 4 10.997 4Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

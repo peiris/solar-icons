@@ -15,14 +15,14 @@ const SvgMenuDots = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M5 14a2 2 0 1 0-2-2"
       />
-      <circle cx={12} cy={12} r={2} stroke="currentColor" strokeWidth={1.5} />
+      <circle cx={12} cy={12} r={2} stroke="currentColor"  />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M21 12a2 2 0 1 1-2-2"
       />
     </svg>

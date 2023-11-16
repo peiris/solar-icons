@@ -15,7 +15,7 @@ const SvgWidget4 = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M2 6.21c0-1.984 0-2.977.659-3.593C3.318 2 4.379 2 6.5 2c2.121 0 3.182 0 3.841.617C11 3.233 11 4.226 11 6.21V17.79c0 1.984 0 2.977-.659 3.593C9.682 22 8.621 22 6.5 22c-2.121 0-3.182 0-3.841-.617C2 20.767 2 19.774 2 17.79V6.21Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

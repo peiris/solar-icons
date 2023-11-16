@@ -21,7 +21,7 @@ const SvgRepeatOneMinimalistic = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M5.488 12c0-2.04 1.666-3.692 3.721-3.692h5.582c2.055 0 3.72 1.653 3.72 3.692 0 2.04-1.665 3.692-3.72 3.692H9.209c-2.055 0-3.72-1.653-3.72-3.692Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

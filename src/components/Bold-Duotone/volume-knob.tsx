@@ -19,7 +19,7 @@ const SvgVolumeKnob = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M20.5 13a1 1 0 1 1 0-2 1 1 0 0 1 0 2ZM3.5 13a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

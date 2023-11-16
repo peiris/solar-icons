@@ -15,7 +15,7 @@ const SvgDropper = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M22 10h-4M22 13h-3"
       />
       <path

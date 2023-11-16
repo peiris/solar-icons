@@ -16,7 +16,7 @@ const SvgCircleBottomDown = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="m10 14-8 8m0 0h6m-6 0v-6"
       />
       <path

@@ -12,11 +12,11 @@ const SvgNotebook = (props: SVGProps<SVGSVGElement>) => {
       height={24}
       {...props}
     >
-      <path stroke="#1C274D" strokeWidth={1.5} d="M12 5.854V21" />
+      <path stroke="#1C274D"  d="M12 5.854V21" />
       <path
         stroke="#1C274D"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="m5 9 4 1M19 9l-4 1M5 13l4 1M19 13l-4 1"
       />
       <path

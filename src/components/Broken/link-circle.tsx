@@ -15,13 +15,13 @@ const SvgLinkCircle = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M14 12a6 6 0 1 1-6-6"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M10 12a6 6 0 0 1 6-6m0 12a6 6 0 0 0 5-9.318"
       />
     </svg>

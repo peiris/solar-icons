@@ -15,7 +15,7 @@ const SvgListArrowUp = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M21 6H3M21 10H3M11 14H3M11 18H3"
         opacity={0.5}
       />
@@ -23,7 +23,7 @@ const SvgListArrowUp = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="M20 16.5 17.5 14m0 0L15 16.5m2.5-2.5v6"
       />
     </svg>

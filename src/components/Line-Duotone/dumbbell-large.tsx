@@ -19,7 +19,7 @@ const SvgDumbbellLarge = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="m12.367 16.038 3.67-3.671m-8.075-.734 3.671-3.671"
         opacity={0.5}
       />

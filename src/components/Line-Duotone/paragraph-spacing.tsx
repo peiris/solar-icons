@@ -16,7 +16,7 @@ const SvgParagraphSpacing = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="M4 21h16M4 3h16"
         opacity={0.5}
       />
@@ -24,7 +24,7 @@ const SvgParagraphSpacing = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="m12 5.5 3 3m-3-3-3 3m3-3v13m0 0 3-3m-3 3-3-3"
       />
     </svg>

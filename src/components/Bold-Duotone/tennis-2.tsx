@@ -15,7 +15,7 @@ const SvgTennis2 = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M3.34 17C6.1 21.783 12.216 23.42 17 20.66a9.956 9.956 0 0 0 4.196-4.731 9.985 9.985 0 0 0-.536-8.93 9.985 9.985 0 0 0-7.465-4.928A9.956 9.956 0 0 0 7 3.339C2.217 6.101.578 12.217 3.34 17Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

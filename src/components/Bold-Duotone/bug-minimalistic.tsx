@@ -15,7 +15,7 @@ const SvgBugMinimalistic = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M5 10a7 7 0 0 1 14 0v5a7 7 0 1 1-14 0v-5Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

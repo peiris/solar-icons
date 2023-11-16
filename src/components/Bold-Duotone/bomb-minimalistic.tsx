@@ -15,7 +15,7 @@ const SvgBombMinimalistic = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M17 14.5a7.5 7.5 0 1 1-15 0 7.5 7.5 0 0 1 15 0Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

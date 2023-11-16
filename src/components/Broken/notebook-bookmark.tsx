@@ -12,11 +12,11 @@ const SvgNotebookBookmark = (props: SVGProps<SVGSVGElement>) => {
       height={24}
       {...props}
     >
-      <path stroke="#1C274D" strokeWidth={1.5} d="M12 5.854V21" />
+      <path stroke="#1C274D"  d="M12 5.854V21" />
       <path
         stroke="#1C274D"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="m5 9 4 1M5 13l4 1M19 13l-4 1M19 5.5v4.01c0 .276 0 .414-.095.47-.095.055-.224-.007-.484-.13l-1.242-.59c-.088-.042-.132-.062-.179-.062-.047 0-.091.02-.179.062l-1.242.59c-.26.123-.39.185-.484.13C15 9.923 15 9.785 15 9.51V6.95"
       />
       <path

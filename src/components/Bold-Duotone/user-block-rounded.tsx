@@ -22,7 +22,7 @@ const SvgUserBlockRounded = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M17.216 14.332a3.751 3.751 0 0 0-1.97 6.213c-.97.29-2.075.455-3.246.455-3.866 0-7-1.79-7-4s3.134-4 7-4c2.072 0 3.934.515 5.216 1.332Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

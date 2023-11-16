@@ -21,7 +21,7 @@ const SvgRepeatOne = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M12.75 10a.75.75 0 0 0-1.28-.53l-1.5 1.5a.75.75 0 0 0 1.06 1.06l.22-.22V14a.75.75 0 0 0 1.5 0v-4Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

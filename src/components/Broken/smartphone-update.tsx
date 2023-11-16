@@ -16,7 +16,7 @@ const SvgSmartphoneUpdate = (props: SVGProps<SVGSVGElement>) => {
         <path
           stroke="currentColor"
           strokeLinecap="round"
-          strokeWidth={1.5}
+          
           d="M20 10c0-3.771 0-5.657-1.172-6.828C17.765 2.109 16.114 2.01 13 2M20 14c0 3.771 0 5.657-1.172 6.828C17.657 22 15.771 22 12 22c-3.771 0-5.657 0-6.828-1.172C4 19.658 4 17.772 4 14v-2.999"
         />
         <path
@@ -26,7 +26,7 @@ const SvgSmartphoneUpdate = (props: SVGProps<SVGSVGElement>) => {
         <path
           stroke="currentColor"
           strokeLinecap="round"
-          strokeWidth={1.5}
+          
           d="M15 19H9"
         />
       </g>

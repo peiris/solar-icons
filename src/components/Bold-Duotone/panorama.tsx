@@ -21,7 +21,7 @@ const SvgPanorama = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M19.21 12.84c0 .778-.625 1.41-1.396 1.41-.77 0-1.395-.632-1.395-1.41 0-.778.625-1.41 1.395-1.41s1.396.632 1.396 1.41Z"
-        opacity={0.5}
+        opacity={0.3}
       />
     </svg>
   );

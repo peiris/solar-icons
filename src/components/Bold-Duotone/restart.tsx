@@ -17,7 +17,7 @@ const SvgRestart = (props: SVGProps<SVGSVGElement>) => {
         fillRule="evenodd"
         d="M6.873 7.873a7.253 7.253 0 0 1 7.928-1.563l1.13-1.13a8.75 8.75 0 1 0 4.751 6.727.75.75 0 0 0-1.488.187 7.25 7.25 0 1 1-12.32-4.22Z"
         clipRule="evenodd"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

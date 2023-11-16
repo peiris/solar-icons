@@ -15,12 +15,12 @@ const SvgPaletteRound = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M2 8V6a4 4 0 1 1 8 0v12a4 4 0 0 1-8 0v-6"
       />
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="m10 8.243 3.314-3.314a4 4 0 1 1 5.657 5.657L9.306 20.25"
       />
       <path
@@ -29,7 +29,7 @@ const SvgPaletteRound = (props: SVGProps<SVGSVGElement>) => {
       />
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M7 18a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"
       />
     </svg>

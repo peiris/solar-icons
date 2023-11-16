@@ -15,7 +15,7 @@ const SvgClapperboardOpen = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M4 11h12c1.886 0 2.828 0 3.414.586C20 12.172 20 13.114 20 15v1c0 2.828 0 4.243-.879 5.121C18.243 22 16.828 22 14 22h-4c-2.828 0-4.243 0-5.121-.879C4 20.243 4 18.828 4 16v-5Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

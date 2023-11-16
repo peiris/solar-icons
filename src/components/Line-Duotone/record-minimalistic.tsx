@@ -14,13 +14,13 @@ const SvgRecordMinimalistic = (props: SVGProps<SVGSVGElement>) => {
     >
       <path
         stroke="currentColor"
-        strokeWidth={1.5}
+        
         d="M21 11.5a3.5 3.5 0 1 1-7 0 3.5 3.5 0 0 1 7 0ZM10 11.5a3.5 3.5 0 1 1-7 0 3.5 3.5 0 0 1 7 0Z"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M6.5 15h11"
         opacity={0.5}
       />

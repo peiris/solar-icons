@@ -17,12 +17,12 @@ const SvgRunning2 = (props: SVGProps<SVGSVGElement>) => {
         cy={4.5}
         r={2.5}
         stroke="currentColor"
-        strokeWidth={1.5}
+        
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="m9 17-1 1.2c-.738.886-1.107 1.328-1.61 1.564C5.885 20 5.31 20 4.157 20H3"
       />
       <path

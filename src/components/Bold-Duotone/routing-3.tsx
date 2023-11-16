@@ -12,8 +12,8 @@ const SvgRouting3 = (props: SVGProps<SVGSVGElement>) => {
       height={24}
       {...props}
     >
-      <circle cx={5} cy={5} r={3} fill="currentColor" opacity={0.5} />
-      <circle cx={19} cy={19} r={3} fill="currentColor" opacity={0.5} />
+      <circle cx={5} cy={5} r={3} fill="currentColor" opacity={0.3} />
+      <circle cx={19} cy={19} r={3} fill="currentColor" opacity={0.3} />
       <path
         fill="currentColor"
         fillRule="evenodd"

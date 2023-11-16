@@ -15,7 +15,7 @@ const SvgWatchRound = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M12 18.977c3.866 0 7-3.124 7-6.977s-3.134-6.977-7-6.977S5 8.147 5 12s3.134 6.977 7 6.977Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

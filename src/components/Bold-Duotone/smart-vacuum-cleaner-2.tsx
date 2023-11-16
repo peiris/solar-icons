@@ -17,7 +17,7 @@ const SvgSmartVacuumCleaner2 = (props: SVGProps<SVGSVGElement>) => {
         fillRule="evenodd"
         d="m6.06 19-3.53 3.53a.75.75 0 0 1-1.06-1.06L5 17.94 6.06 19ZM17.94 19l3.53 3.53a.75.75 0 1 0 1.06-1.06L19 17.94 17.94 19Z"
         clipRule="evenodd"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

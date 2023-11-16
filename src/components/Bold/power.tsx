@@ -15,7 +15,7 @@ const SvgPower = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M12 2v4"
       />
       <path

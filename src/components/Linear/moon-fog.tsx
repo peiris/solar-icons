@@ -16,7 +16,7 @@ const SvgMoonFog = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="M8 22h8M5 19h14M2 16h20"
       />
       <path

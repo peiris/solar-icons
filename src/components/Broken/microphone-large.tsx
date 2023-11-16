@@ -15,13 +15,13 @@ const SvgMicrophoneLarge = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M18 8v5a6 6 0 0 1-12 0V8a6 6 0 0 1 10.472-4"
       />
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M10 6.5s.473-.5 2-.5c1.527 0 2 .5 2 .5M10 9.5s.473-.5 2-.5c1.527 0 2 .5 2 .5M21 11v2a9 9 0 0 1-5 8.064M3 11v2a9 9 0 0 0 9 9"
       />
     </svg>

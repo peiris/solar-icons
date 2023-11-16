@@ -19,7 +19,7 @@ const SvgWirelessCharge = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M21 10.073A8.826 8.826 0 0 1 12.073 19C7.103 18.96 3.04 14.898 3 9.927A8.826 8.826 0 0 1 11.927 1c4.97.04 9.033 4.102 9.073 9.073Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

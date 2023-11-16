@@ -17,7 +17,7 @@ const SvgFlag2 = (props: SVGProps<SVGSVGElement>) => {
         fillRule="evenodd"
         d="M6.5 1.75a.75.75 0 0 0-1.5 0v20a.75.75 0 0 0 1.5 0v-20Z"
         clipRule="evenodd"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

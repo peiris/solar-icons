@@ -15,7 +15,7 @@ const SvgJarOfPills2 = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M6 3.5c0-.466 0-.699.076-.883a1 1 0 0 1 .541-.54C6.801 2 7.034 2 7.5 2h9c.466 0 .699 0 .883.076a1 1 0 0 1 .54.541c.077.184.077.417.077.883s0 .699-.076.883a1 1 0 0 1-.541.54C17.199 5 16.966 5 16.5 5h-9c-.466 0-.699 0-.883-.076a1 1 0 0 1-.54-.541C6 4.199 6 3.966 6 3.5Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"
@@ -26,7 +26,7 @@ const SvgJarOfPills2 = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="m15.878 15.667-2.21 2.211c-.917.916-.886 2.432.068 3.386.954.954 2.47.985 3.386.069l2.21-2.211c.917-.916.886-2.432-.068-3.386-.954-.954-2.47-.985-3.386-.069Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"
@@ -35,7 +35,7 @@ const SvgJarOfPills2 = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M4 17.552v-6.63c0-.313.037-.623.108-.922h15.787c.07.295.105.6.105.908v3.476c-1.511-1.215-3.747-1.213-5.182.222l-2.211 2.211c-.354.354-.62.756-.803 1.183H4.025A4 4 0 0 1 4 17.552Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

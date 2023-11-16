@@ -21,14 +21,14 @@ const SvgLamp = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M16.759 14.935a.773.773 0 0 0-.003.065v2a.75.75 0 1 0 1.5 0v-2.318c-.596.145-1.246.23-1.497.253Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"
         fillRule="evenodd"
         d="M11.256 21.25V15h1.5v6.25h-1.5Z"
         clipRule="evenodd"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"

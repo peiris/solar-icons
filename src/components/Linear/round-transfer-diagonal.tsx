@@ -12,12 +12,12 @@ const SvgRoundTransferDiagonal = (props: SVGProps<SVGSVGElement>) => {
       height={24}
       {...props}
     >
-      <circle cx={12} cy={12} r={10} stroke="currentColor" strokeWidth={1.5} />
+      <circle cx={12} cy={12} r={10} stroke="currentColor"  />
       <path
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="m6.5 4 7.378 8V7.5M17.378 19.878l-7.5-7.879v4.5"
       />
     </svg>

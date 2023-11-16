@@ -19,7 +19,7 @@ const SvgFootball = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M4 6a9.951 9.951 0 0 1 4.072-3.193c5.078-2.17 10.952.188 13.122 5.265 2.169 5.078-.189 10.952-5.266 13.122-5.078 2.169-10.952-.189-13.121-5.266a9.951 9.951 0 0 1-.735-5.122"
       />
     </svg>

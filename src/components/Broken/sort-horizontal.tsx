@@ -16,7 +16,7 @@ const SvgSortHorizontal = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="m6 8 4.125-4M6 8l4.125 4M6 8h7m5 0h-2M18 16l-4.125-4M18 16l-4.125 4M18 16h-7m-5 0h2"
       />
     </svg>

@@ -15,7 +15,7 @@ const SvgListCrossMinimalistic = (props: SVGProps<SVGSVGElement>) => {
       <path
         stroke="currentColor"
         strokeLinecap="round"
-        strokeWidth={1.5}
+        
         d="M20 6H3M11 11H3M11 16H3"
         opacity={0.5}
       />
@@ -23,7 +23,7 @@ const SvgListCrossMinimalistic = (props: SVGProps<SVGSVGElement>) => {
         stroke="currentColor"
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth={1.5}
+        
         d="m15 16 5-5m0 5-5-5"
       />
     </svg>

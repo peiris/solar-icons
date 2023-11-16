@@ -15,7 +15,7 @@ const SvgGalleryCircle = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="m11.182 15.362-4.29-4.29a2.3 2.3 0 0 0-3.14-.104l-1.001.894c-.017.013-.05.099-.05.338a9.3 9.3 0 0 0 17.025 5.179l-.117-.118-1.833-1.662a3 3 0 0 0-3.731-.225l-.299.21a2 2 0 0 1-2.564-.222Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path fill="currentColor" d="M15 11a2 2 0 1 0 0-4 2 2 0 0 0 0 4Z" />
       <path

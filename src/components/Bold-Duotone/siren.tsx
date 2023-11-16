@@ -15,7 +15,7 @@ const SvgSiren = (props: SVGProps<SVGSVGElement>) => {
       <path
         fill="currentColor"
         d="M20 21.25V16c0-2.8 0-4.2-.545-5.27a5 5 0 0 0-2.185-2.185C16.2 8 14.8 8 12 8c-2.8 0-4.2 0-5.27.545a5 5 0 0 0-2.185 2.185C4 11.8 4 13.2 4 16v5.25h16Z"
-        opacity={0.5}
+        opacity={0.3}
       />
       <path
         fill="currentColor"
