@@ -1,6 +1,6 @@
 {
   "name": "solar-icons",
-  "version": "0.0.6",
+  "version": "0.0.12",
   "type": "module",
   "main": "./dist/index.umd.js",
   "module": "./dist/index.es.js",
@@ -22,7 +22,8 @@
     "dev": "vite",
     "build": "rm -rf dist && tsc && vite build",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "build:icons": "npx @svgr/cli --out-dir src/components --template 'template.cjs' -- src/icons"
   },
   "dependencies": {
     "react": "^18.2.0",

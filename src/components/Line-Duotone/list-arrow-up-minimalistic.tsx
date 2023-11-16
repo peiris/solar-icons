@@ -1,0 +1,32 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+const SvgListArrowUpMinimalistic = (props: SVGProps<SVGSVGElement>) => {
+  return (
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      fill="none"
+      viewBox="0 0 24 24"
+      role="img"
+      strokeWidth={props.strokeWidth ? props.strokeWidth : 1.5}
+      width={24}
+      height={24}
+      {...props}
+    >
+      <path
+        stroke="currentColor"
+        strokeLinecap="round"
+        strokeWidth={1.5}
+        d="M20 6H3M11 11H3M12 16H3"
+        opacity={0.5}
+      />
+      <path
+        stroke="currentColor"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth={1.5}
+        d="M15 11.5 17.5 9m0 0 2.5 2.5M17.5 9v8"
+      />
+    </svg>
+  );
+};
+export default SvgListArrowUpMinimalistic;
